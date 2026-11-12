@@ -1,6 +1,6 @@
 # Soul Wave Website (soulwave.co.in): How It's Built and How It Works
 
-Last updated: 9 Nov 2026. Built with Claude Code. This file is the non-code context: what exists, why, and the rules.
+Last updated: 12 Nov 2026. Built with Claude Code. This file is the non-code context: what exists, why, and the rules.
 
 ## Stack and infrastructure
 - WordPress + WooCommerce. Elementor + Astra (header/footer). Novamira plugin lets Claude Code build native, editable Elementor pages.
@@ -27,7 +27,21 @@ Last updated: 9 Nov 2026. Built with Claude Code. This file is the non-code cont
 ## Site structure
 - Homepage, Punch Needle Kits page, a page per design ("Single Punch Needle Kit - [Design]"), Combo page (pick any 2), About Us, Contact, FAQ, Blog, policies (Shipping, Returns & Refunds, Terms, Privacy, Contact).
 - Ads land on product pages or the craft page (money pages), not the homepage.
-- Future: one brand-level homepage for all crafts, each craft with its own page. Visitors must reach products without wading through a long landing page.
+- Future: one brand-level homepage for all crafts, each craft with its own page. See "Multi-craft structure" below.
+
+## Multi-craft structure (decided 9 Oct 2026, for after Punch Needle is established)
+- Each craft stays separate, arts never mix. Each craft's page shows only its own kits. Visitors (from ads or Google) must reach products without wading through a long landing page.
+- Brand homepage, centred on the joy of creating, craft-agnostic: Hero → Real People, Real Kits → What are you in the mood for? (one tile per craft, e.g. DIY Punch Needle Kit, each leads to that craft's page) → Pain → Reviews → Bestsellers → Soul Wave Journey (choose your experience, how the kit reaches you, what's in it, steps in between) → Founder's note → Closing.
+- Bestsellers stays lower on Home because the craft tiles already route people.
+- Craft page: Short hero → Kits → Why Soul Wave Over Others (specific to that craft, justifies the price) → Reviews → Real People, Real Kits → FAQ → Closing. No "What's in our kit" section on the craft page.
+- Navbar: each craft, Gifting Kits, New Arrivals, Bundle Kits, All Kits, About Us.
+
+### Open (Claude's suggestions, not confirmed)
+- Navbar has ~9 items, too many for phones. Suggested: Shop by Craft (dropdown + All Kits), Gifting, Bundles, About Us; New Arrivals as a "New" badge; add Gifting/Bundles only once they have kits.
+- Add a short brand FAQ to the homepage (helps SEO/AEO).
+- A craft with only one kit: send navbar and ads straight to its product page until a second kit exists.
+- Soul Wave Journey steps must be true for every craft (e.g. video tutorial, weekly check-ins).
+- Keep the full Punch Needle story on a permanent Punch Needle URL so rankings carry over.
 
 ## Homepage (current order, do not reorder)
 Hero → Reviews → Why Soul Wave Over Others → What's Inside → Choose Your Kit → Real People, Real Kits (reels) → Founder's note → FAQ → Closing.
