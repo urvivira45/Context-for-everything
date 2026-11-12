@@ -4,7 +4,7 @@
 - Urvi Vira, Mumbai. Founder of Soul Wave.
 - Grew up around my family's business. MBA in Marketing, minor in Finance. Worked as a Project Manager in market research.
 - First venture: Heirloom, a semi-sustainable fashion accessories brand made with artisans from waste fabric. Built most of it myself.
-- Love travelling (solo trips, treks) and trying new art forms.
+- Love travelling (solo trips, treks), learning to ski and trying new art forms. Art has been part of my life since school. Joke: complicated relationship with dancing.
 - Building a personal brand as a fiber artist under my own name, separate from Soul Wave.
 - Team: running Soul Wave solo, growing to two people (Nov 2026).
 
