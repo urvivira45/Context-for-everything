@@ -12,7 +12,7 @@ Last updated: 12 Nov 2026
 | `urvi-personal-brand/` | My fiber-art brand beyond Soul Wave (Punch Needle, hand embroidery, frames, curtains). `plan.md` is the overview. |
 | `urvi-personal-brand/instagram-youtube/` | Everything from the Insta & YT growth strategy project: strategy, decisions, content log. |
 | `linkedin/` | My business-focused LinkedIn (founder thinking) + the Soul Wave company page. |
-| `soul-wave/` | Coming next, after I finish updating the website SOP. |
+| `soul-wave/` | The business only (team can get this folder): overview, website, marketing, operations, learnings, current plan. |
 | `log/` | One line per session: what was done, decided, learned. |
 
 `CLAUDE.md` tells Claude how to read and save to this repo.
