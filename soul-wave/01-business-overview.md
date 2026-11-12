@@ -32,7 +32,7 @@ Last updated: 12 Nov 2026
 
 ## Offers (Nov 2026)
 - **Buy 2 Kits Get 1 Free:** welcome offer, ~6 to 7 months, lowest-priced kit free, no code, auto-applied. Combo counts as 1 kit.
-- **₹150 store credit:** earned on an order, used on the next order. Flat ₹150, first order per email, created 48h after delivery (with E4) if no complaint is open, valid 90 days, single use.
+- **₹150 store credit:** earned on an order, used on the next order. Flat ₹150, first order per email, created when E4 sends (24h after E3 if no complaint is open), valid 90 days, single use.
 - The two offers never combine.
 - Free shipping across India (always "across India", never "PAN India").
 

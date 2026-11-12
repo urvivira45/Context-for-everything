@@ -22,11 +22,12 @@ Source: "revise website SOP.pdf" (live-site state, verified 9 Nov 2026) in the S
 
 ## Offers
 - Buy 2 Get 1 Free: live, no end date. Applied automatically as the coupon `buy2get1free` (nobody types it) so the Razorpay popup shows the saving. Don't edit or delete that coupon. Combo = 1 unit. Top strip: "Buy 2 Get 1 Free | Free Shipping Across India".
-- Store credit: flat ₹150 earned on the order, used on the next one. Created 48h after delivery if no complaint, valid 90 days, can't combine with B2G1.
+- Store credit: flat ₹150 earned on the order, used on the next one. Created when E4 sends (previously at delivery), valid 90 days, can't combine with B2G1. Checkout applies whichever saves more.
 
 ## Order flow and statuses
-- Processing (paid) → E1 + invoice. Dispatched (custom status, needs tracking link) → E2. Completed = DELIVERED, not posted → E3, then 48h later E4 + coupon, then 4 Saturday WhatsApp check-ins.
-- Complaint hold box pauses E4, W4 and check-ins until unticked.
+- Processing (paid) → E1 + invoice. Dispatched (custom status, needs tracking link) → E2. Completed = DELIVERED, not posted → E3 (delivery and support, no coupon), then E4 (thank-you, review, coupon) 24h after E3 if no complaint (previously 48h), then W4 by hand, then 4 Saturday WhatsApp check-ins.
+- Complaint hold box pauses E4, W4 and check-ins until unticked (resolved).
+- E4 must always send: remove the rule that blocks E4 when the Google review link is empty. Review link lives in Settings → General and must stay filled.
 - Gift recipients: check-ins and review ask go to the recipient.
 
 ## Messages
@@ -50,7 +51,7 @@ Source: "revise website SOP.pdf" (live-site state, verified 9 Nov 2026) in the S
 4. Shadowfax dispatch process not written down.
 5. Razorpay keys not rotated since a partial secret appeared in a chat (13 Oct).
 6. Theme .git folder and ._ files on the live server need deleting.
-7. 24h abandoned cart email still mentions Super Combo and old coupon: paste new copy by hand.
+7. Abandoned cart A1 to A3 new copy (see `soul-wave/customer-messages.md`) to paste in the plugin, with first-name fallback "there".
 8. Astra PHP warning flooding the error log (4MB on 9 Nov).
 
 For the latest gap list, check the revised SOP in the Soul Wave project.

@@ -14,6 +14,7 @@ Last updated: 12 Nov 2026
 | `linkedin/` | My business-focused LinkedIn (founder thinking) + the Soul Wave company page. |
 | `soul-wave/` | The business only (team can get this folder): overview, website, marketing, operations, learnings, current plan. |
 | `soul-wave/kit-inserts.md` | Letter, cards and stickers inside the kit box. |
+| `soul-wave/customer-messages.md` | Email and WhatsApp sequence rules, product descriptions. |
 | `log/` | One line per session: what was done, decided, learned. |
 
 `CLAUDE.md` tells Claude how to read and save to this repo.

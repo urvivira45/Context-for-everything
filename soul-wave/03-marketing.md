@@ -1,6 +1,6 @@
 # Soul Wave Marketing
 
-Last updated: 9 Nov 2026
+Last updated: 12 Nov 2026
 
 ## Meta ads
 - Kit ads and workshop ads run as separate campaigns.
@@ -20,7 +20,7 @@ Last updated: 9 Nov 2026
 - Creators are for buzz only. Never count creator or organic sales in forecasts.
 
 ## WhatsApp and email (CRM)
-- Post-purchase E-series (email) and W-series (WhatsApp) sequences finalised Oct 2026, now monitoring.
+- Email and WhatsApp sequence finalised 6 Nov 2026. Rules and copy in `customer-messages.md`.
 - Four weekly WhatsApp check-ins (W5 to W8): how they feel, invite artwork photos. Review ask in W7. W4 asks if the kit is a gift.
 - Club welcome + club abandoned-cart merged into one email. 24h/48h abandoned-cart reminders already built.
 - No workshop invites in sequences.
