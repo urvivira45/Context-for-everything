@@ -18,6 +18,7 @@ Last updated: 13 Nov 2026
 - Captions: first 3 to 4 words are the hook.
 
 ## Creators
+- Full influencer campaign decisions, categories, brief format and first 8 concepts: `influencer-ugc.md`.
 - Plan: 50 creator collabs (10 on old kits, 40 on new). Barter.
 - Creators are for buzz only. Never count creator or organic sales in forecasts.
 
