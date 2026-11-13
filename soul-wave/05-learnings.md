@@ -17,3 +17,4 @@ Read before revisiting pricing, ads or growth plans.
 - **City-level lead data was never recorded in Campaign 1.** Three sales in a city is a faint signal, not proof. Record city and pincode from now on.
 - **Soul Wave is evergreen,** not gifting or festival-led. Lead with the joy of making.
 - **Festivals raise ad costs** (e.g. Big Billion Days). Don't compete in the festive window on a small budget.
+- **Case-sensitive hosting (Vercel) breaks images that work locally.** A Mac is case-insensitive, so `coaster.JPG` referenced as `coaster.jpg` loads locally but 404s live. Keep image filenames and their code references in matching lowercase.
