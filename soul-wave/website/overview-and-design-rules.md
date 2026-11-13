@@ -67,10 +67,8 @@ Hero → Reviews → Why Soul Wave Over Others → What's Inside → Choose Your
 - Empty cart: "Your cart is empty for now. Pick a kit below to get started." plus the kits. No "Return to shop", no "removed. Undo?" notice.
 
 ## SEO / AEO / GEO
-- Goal: first Indian brand for "punch needle", "punch needle kit", "punch needle kit India". Long term: new hobby and stress-relief searches.
-- ChatGPT already recommends Soul Wave. Load benefit and persona content ONTO pages (AI reads them fastest), blogs supplement.
+- Full goals, commitment and open ideas in `soul-wave/seo-aeo-geo.md`.
 - Keep FAQ, Product, Organization, Article schema. Why-Soul-Wave circles open keyword-rich popups.
-- Commitment: 1 hour daily for 30 days on SEO/AEO/GEO (from Oct 2026).
 
 ## Rules for any website round
 - Nothing added, removed or rewritten without asking me.

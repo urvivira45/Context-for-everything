@@ -2,7 +2,7 @@
 
 Urvi's single source of truth. Every Claude project or chat starts from here instead of old chats.
 
-Last updated: 16 Nov 2026
+Last updated: 17 Nov 2026
 
 ## Folders
 
@@ -15,6 +15,7 @@ Last updated: 16 Nov 2026
 | `soul-wave/` | The business only (team can get this folder): overview, website, marketing, operations, learnings, current plan. |
 | `soul-wave/workshops.md` | Workshops: pricing, venues, every workshop run, ads, WhatsApp flow, table mats, season plan. |
 | `soul-wave/kit-inserts.md` | Letter, cards and stickers inside the kit box. |
+| `soul-wave/seo-aeo-geo.md` | SEO, AEO, GEO goals, commitment and open ideas. |
 | `soul-wave/customer-messages.md` | Email and WhatsApp sequence rules, product descriptions. |
 | `soul-wave/meta-ads-campaign-2.md` | Meta ads: Campaign 1 facts, Campaign 2 targeting, budget, pincodes. |
 | `soul-wave/influencer-ugc.md` | Influencer and UGC collabs: categories, brief format, brief library, first 8 concepts. |
