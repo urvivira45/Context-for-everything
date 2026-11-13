@@ -2,7 +2,7 @@
 
 Urvi's single source of truth. Every Claude project or chat starts from here instead of old chats.
 
-Last updated: 12 Nov 2026
+Last updated: 13 Nov 2026
 
 ## Folders
 
@@ -15,6 +15,7 @@ Last updated: 12 Nov 2026
 | `soul-wave/` | The business only (team can get this folder): overview, website, marketing, operations, learnings, current plan. |
 | `soul-wave/kit-inserts.md` | Letter, cards and stickers inside the kit box. |
 | `soul-wave/customer-messages.md` | Email and WhatsApp sequence rules, product descriptions. |
+| `soul-wave/meta-ads-campaign-2.md` | Meta ads: Campaign 1 facts, Campaign 2 targeting, budget, pincodes. |
 | `log/` | One line per session: what was done, decided, learned. |
 
 `CLAUDE.md` tells Claude how to read and save to this repo.

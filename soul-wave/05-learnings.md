@@ -14,4 +14,6 @@ Read before revisiting pricing, ads or growth plans.
 - **Sequence discipline:** each product rung funds the next. Don't skip steps.
 - **Corporate Diwali decisions happen in September.** Build that pipeline before October.
 - **Holiday weekends kill Mumbai workshops** (Gandhi Jayanti long weekend: Versova got zero bookings from 55+ chats, plus ad funds ran out mid-campaign).
+- **City-level lead data was never recorded in Campaign 1.** Three sales in a city is a faint signal, not proof. Record city and pincode from now on.
+- **Soul Wave is evergreen,** not gifting or festival-led. Lead with the joy of making.
 - **Festivals raise ad costs** (e.g. Big Billion Days). Don't compete in the festive window on a small budget.
