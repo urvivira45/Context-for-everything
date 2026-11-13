@@ -1,10 +1,11 @@
 # LinkedIn: Plan and Context
 
-Last updated: 12 Nov 2026. Meant to grow for years. Add every post to `content-log.md`.
+Last updated: 13 Nov 2026. Meant to grow for years. Add every post to `content-log.md`.
 
 ## Direction
 - Posted from my personal profile, but the content is business-focused: my thinking as a founder building Soul Wave, not personal life content.
 - Also proof of content before approaching corporates for gifting and corporate workshops (the highest-margin channel).
+- It's my personal account, so not all Soul Wave brand rules apply here (exact list still open, see below).
 
 ## Plan (Nov 2026)
 - 3 posts a week on my profile, starting Nov 2026.
@@ -32,6 +33,9 @@ Last updated: 12 Nov 2026. Meant to grow for years. Add every post to `content-l
 - Personal page rules: Soul Wave brand tone, visuals, "lead with the joy of making" and the no-dashes copy rule don't apply; write as Urvi the founder and share the business side openly. Still apply: no health, mental health or therapeutic claims about kits or workshops, and accurate facts.
 - Don't wait for "enough proof" before starting corporate outreach, since the corporate cycle is long. Workshop visuals are the strongest proof for HR.
 - Keep the current plan as a project file too, since chats see project files automatically but only read this repo when asked.
+- Planner chat owns this plan. The writing chat reads it before drafting, the messages chat reads it for how the corporate offer is positioned. Update the plan when it changes, not just the chat.
+- Chat scopes: planner = strategy, pillars, calendar, what's working, Soul Wave page start, outreach timing; writing = drafts, hooks, carousels, edits against the plan; messages = DMs, comments, corporate outreach, follow-ups, anything unexpected.
+- Brand colours and fonts also don't apply on the personal page.
 - Add `outreach.md` (corporate contacts and status) and `replies.md` (tricky comments/DMs and how they were handled) here.
 
 ## Writing rules
