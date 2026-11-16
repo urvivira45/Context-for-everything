@@ -2,7 +2,7 @@
 
 Urvi's single source of truth. Every Claude project or chat starts from here instead of old chats.
 
-Last updated: 13 Nov 2026
+Last updated: 16 Nov 2026
 
 ## Folders
 
@@ -13,6 +13,7 @@ Last updated: 13 Nov 2026
 | `urvi-personal-brand/instagram-youtube/` | Everything from the Insta & YT growth strategy project: strategy, decisions, content log. |
 | `linkedin/` | My business-focused LinkedIn (founder thinking) + the Soul Wave company page. |
 | `soul-wave/` | The business only (team can get this folder): overview, website, marketing, operations, learnings, current plan. |
+| `soul-wave/workshops.md` | Workshops: pricing, venues, every workshop run, ads, WhatsApp flow, table mats, season plan. |
 | `soul-wave/kit-inserts.md` | Letter, cards and stickers inside the kit box. |
 | `soul-wave/customer-messages.md` | Email and WhatsApp sequence rules, product descriptions. |
 | `soul-wave/meta-ads-campaign-2.md` | Meta ads: Campaign 1 facts, Campaign 2 targeting, budget, pincodes. |

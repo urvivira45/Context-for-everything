@@ -11,7 +11,9 @@ Last updated: 13 Nov 2026
 - Targeting logic: household affordability (dual-income homes), pincode-level, favour owner-heavy old-money areas. Avoid tier-2 low-affordability leads. iPhone/income filters are unreliable in India.
 - No new content shoot possible for ads: reuse existing footage and photos.
 - CAC target in the Meta ads chat: ₹350 excl. GST (₹413 incl.), budget ₹24,500 excl. GST for 70 kits. Differs from the lines above, see Open in `meta-ads-campaign-2.md`.
-- Two proven workshop ads: Ad 1 "the feeling", Ad 2 "why Soul Wave".
+- Two proven workshop ads: Ad 1 "the feeling", Ad 2 "why Soul Wave". Workshop ad rules, copy and campaign results: `workshops.md`.
+- One campaign per workshop when several run in a weekend, so each has its own CAC and can be paused alone.
+- Pausing the weaker ad inside an ad set keeps the ad set's learning. A new ad set resets it.
 
 ## Instagram (Soul Wave)
 - ~400 followers. Four reusable workshop stories locked.
@@ -35,4 +37,5 @@ Last updated: 13 Nov 2026
 - Third Wave (Juhu, Malad West, Cuffe Parade), Doolally Taproom Versova (Andheri), Doolally Andheri, Art Station Andheri, Thhikana Cafe (Thane).
 - Doolally serves alcohol: anyone under 21 must come with a parent. Minimum age 10.
 - Future targets: 3 Art House, Method/Haiku, Ministry of New, Lamakaan (Hyderabad).
-- Weekend workshops across Mumbai 21 Nov to 20 Dec 2026, ~6 workshops before Christmas.
+- Weekend workshops across Mumbai 21 Nov to 20 Dec 2026, ~6 workshops before Christmas. Dates, venue rates and season plan: `workshops.md`.
+- Per-head venue charge returned as an F&B coupon: Third Wave ₹400, Thhikana Thane ₹350, Doolally Versova ₹330 plus ₹118 flat.

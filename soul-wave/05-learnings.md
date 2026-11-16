@@ -14,6 +14,9 @@ Read before revisiting pricing, ads or growth plans.
 - **Sequence discipline:** each product rung funds the next. Don't skip steps.
 - **Corporate Diwali decisions happen in September.** Build that pipeline before October.
 - **Holiday weekends kill Mumbai workshops** (Gandhi Jayanti long weekend: Versova got zero bookings from 55+ chats, plus ad funds ran out mid-campaign).
+- **First contact in a new area is the expensive part.** Repeat venues convert cheaper than new ones: Andheri CAC fell between July and August, Thane cost ~₹291 a head on first contact. Plan new areas at a higher CAC than proven ones instead of averaging them together.
+- **Pausing a weak ad inside an ad set keeps its learning; a new ad set resets it.** Never rebuild close to a deadline, and never change targeting and budget on the same day.
+- **No weekday workshops.** The Malad Friday failed and moving it to Saturday fixed it.
 - **City-level lead data was never recorded in Campaign 1.** Three sales in a city is a faint signal, not proof. Record city and pincode from now on.
 - **Soul Wave is evergreen,** not gifting or festival-led. Lead with the joy of making.
 - **Festivals raise ad costs** (e.g. Big Billion Days). Don't compete in the festive window on a small budget.

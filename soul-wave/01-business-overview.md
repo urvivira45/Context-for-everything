@@ -1,6 +1,6 @@
 # Soul Wave: Business Overview
 
-Last updated: 12 Nov 2026
+Last updated: 16 Nov 2026
 
 ## What Soul Wave is
 - D2C brand selling DIY Punch Needle kits across India, plus creative workshops in Mumbai and Thane. Scaling toward corporate gifting and corporate workshops.
@@ -26,9 +26,11 @@ Last updated: 12 Nov 2026
 
 **Workshops:**
 - ₹1,400 per person (up from ₹1,200 from Nov 2026). No discounts ever.
-- Done so far: 9 Punch Needle workshops and 1 Bedazzled Coasters workshop.
+- Done so far: 9 Punch Needle workshops and 1 Bedazzled Coasters workshop. 67 bookings, ₹75,830 collected, Jul to Oct 2026.
 - B2B community pitch: ₹800/person, ₹750 for 15+, minimum 7.
 - Workshops are the most consistently near-profitable channel. Corporate workshops are highest margin.
+- Current averages: CAC ₹228 (target ₹200), profit ₹304 per head (target ₹350).
+- Full detail (venues, ads, WhatsApp flow, table mats, season plan): `workshops.md`.
 
 ## Offers (Nov 2026)
 - **Buy 2 Kits Get 1 Free:** welcome offer, ~6 to 7 months, lowest-priced kit free, no code, auto-applied. Combo counts as 1 kit.
