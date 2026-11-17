@@ -1,11 +1,11 @@
 # Soul Wave Hiring: Content Creation Associates
 
-Last updated: 17 Nov 2026. Source: hiring chat (30 Sep to 12 Nov 2026).
+Last updated: 17 Nov 2026. Source: hiring chat (30 Sep to 17 Nov 2026).
 
 ## Structure
 - Two entry-level hires (0 to 1 year), both titled "Content Creation Associate": one Shooting, one Editing. Each is a generalist in a different domain: one creates the content, the other edits it and sorts out the rest.
 - 3-month paid pilot project, not an internship. It continues as a full-time role with a raise if it goes well.
-- Budget up to ₹20k/month for both.
+- Budget up to ₹20k/month for both. For planning, count ₹10,000 per hire (I will try to negotiate toward ₹8,000, but travel and other costs apply), about ₹11,000 per hire all-in.
 - Pilot pay ₹8,000 to ₹10,000/month each, then ₹12,000 to ₹18,000/month if continued, with room to grow (previously discussed: ₹7,500 each, then ₹10,000 to 12,000 for shooting and ₹6,000 to 8,000 for editing).
 - Both work in the office, Lower Parel. I do not want a remote hire I have to chase for updates; I want to see the work happen.
 - Content strategy and ideas stay with me. The hires bring the making.

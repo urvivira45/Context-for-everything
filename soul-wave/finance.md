@@ -38,7 +38,7 @@ Source of numbers: Google Sheet "Soul Wave Finances & Inventory". Share it with 
 
 ## Capital and salaries (decided)
 - Capital is meant to be used. Up to about ₹1.5 lakh use is acceptable.
-- Hires: 2 people at about ₹10k each, paid from capital for the first ~3 months, then covered by sales (previously one person at ₹15k).
+- Hires: 2 people at about ₹10k each (plan at ₹10k even though the pilot range is ₹8,000 to ₹10,000; about ₹11k each all-in with travel), paid from capital for the first ~3 months, then covered by sales (previously one person at ₹15k).
 - My salary: ₹15k/month Dec to Feb, raised only if the business is working (previously ₹20k from 2 Oct).
 - Scaling and more capital only after the 100-order campaign comes out profitable.
 - Domain GST credit (via my dad's GST number) not yet reflected, so domain is counted as a full expense. Box GST also claimed via that number.
