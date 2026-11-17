@@ -1,12 +1,13 @@
 # Soul Wave Workshops
 
-Last updated: 16 Nov 2026. From the workshop chats (Jul to Nov 2026).
+Last updated: 17 Nov 2026. From the workshop chats (Jul to Nov 2026).
 
 ## Formats and names
-- "Pick & Punch": Punch Needle workshop. "Stick & Sparkle" (later "Bedazzled Coasters"): beaded coasters. Rejected "Parlour" (salon feel) and "Beaded Coaster" (used by Churchgate).
+- "Pick & Punch": Punch Needle workshop. "Stick & Sparkle" (later "Bedazzled Coasters"): tube glass beads stuck onto a wooden coaster with B-6000 glue. Rejected "Parlour" (salon feel) and "Beaded Coaster" (used by Churchgate).
 - Done so far: 9 Punch Needle, 1 bedazzled. 67 bookings in total, Jul to Oct 2026.
 - Session shape: needle threading and a small shape first so everyone understands the mechanism, then design and yarn choice, then the bigger project. Last 30 minutes covers fabric, yarn, other project types and ways to close a piece.
 - Take-home: artwork, Punch Needle, hoop, plus extra yarn. Never claim people finish in the session.
+- Standing teaching assets: a printed 3-hour workshop flow and a 6-part tutorial script (for the kit QR/YouTube). The flow includes a 5-minute mid-session break and a felt-backing finish so the piece works as a coaster. Default needle length size 8; brick-stitch for a clean finish.
 
 ## Pricing
 - ₹1,200 per person Aug to Oct (₹500 advance + ₹700 at venue). From Nov 2026: ₹1,400 flat everywhere, including Thane. Benchmark: Magic Needles ₹1,800 in Vikhroli, no F&B coupon.
@@ -76,6 +77,12 @@ Cancelled: Cuffe Parade 22 Aug, Doolally Khar 23 Aug (coaster supply), corporate
 - Versova: ~₹1,180 ex-GST, 55 conversations, 0 registrations.
 - Thane: ~₹1,385 ex-GST, 45 conversations, 4 registrations at that point.
 - About 100 conversations produced 5 registrations across the weekend. Leads said directly they were out of Mumbai. The ad account also ran out of funds mid-campaign and delivery was throttled.
+
+## Posters and creative
+- Pick & Punch poster: pink and mint (chosen over a yellow and lilac version), Libre Baskerville headings, Jost body, charcoal subheadline, wave divider, Soul Wave logo and "weave your peace".
+- Built as a reusable master in Canva with no date, time, venue or price baked in: those live in the caption or the venue listing, so one poster serves every workshop. Three sizes: story 1080x1920, feed 1080x1350, banner 700x400.
+- Stick & Sparkle poster follows the same layout and font system.
+- Canva, not Claude Design, for these posters: the HTML-to-PNG export mangled the canvas sizes.
 
 ## WhatsApp flow
 - Cold leads: greeting that lets them pick a location (Meta mixes areas), location details with map link, founder intro, voice note for first-timers, advance ask, confirmation, day-before reminder, morning-of. Quick replies /2M /3V /4T style.

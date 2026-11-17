@@ -1,6 +1,6 @@
 # Soul Wave Influencer and UGC Campaign (Campaign 2 collabs)
 
-Last updated: 13 Nov 2026. From the influencer chat (June to Oct 2026).
+Last updated: 17 Nov 2026. From the influencer chat (June to Oct 2026).
 
 ## Purpose
 - Goal: UGC, trust and talk across India. Fine if the campaign itself brings zero sales.
@@ -8,6 +8,7 @@ Last updated: 13 Nov 2026. From the influencer chat (June to Oct 2026).
 - No need to spend ₹5k to ₹10k on paid UGC. Collab reels go on the Soul Wave Instagram (as collabs) and are embedded on the website as trust proof ("we are not bluffing").
 - Everyone approached as one group. Ad rights are a bonus if a creator agrees, not a requirement (previously: separate ad creators with rights asked upfront). Website embeds not raised with creators.
 - Creators are for buzz only, never counted in sales forecasts. Wider plan: 50 creator collabs (10 on old kits, 40 on new).
+- Creator collabs go to kits, not a specific workshop: a workshop reel promotes the venue (changes each time, so not reusable) and a small room does not film well, while kit content is the evergreen core. A creator offering a workshop collab is redirected to a kit barter.
 
 ## Creator categories (who)
 - Busy working professional, after-work reset (replaced Mumbai-local, which was dropped).
