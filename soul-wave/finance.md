@@ -2,6 +2,8 @@
 
 Last updated: 17 Nov 2026
 
+Strategy, pricing history and roadmap live in `strategy-and-finance.md` (CEO chat). This file holds the CFO chat decisions.
+
 Source of numbers: Google Sheet "Soul Wave Finances & Inventory". Share it with Claude as a downloaded .xlsx so every tab comes through.
 
 ## How the sheet is read
