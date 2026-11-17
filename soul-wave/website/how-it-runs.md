@@ -46,7 +46,7 @@ Source: "revise website SOP.pdf" (live-site state, verified 9 Nov 2026) in the S
 
 ## Known gaps (7 Nov 2026)
 1. Homepage Instagram reel links are placeholders (most visible broken thing).
-2. Admin order alerts go to the old Soulwavekits@gmail.com.
+2. Admin order alerts go to the old Soulwavekits@gmail.com. Decided 18 Oct: move them to soulwave.support@gmail.com (see `soul-wave/email-setup.md`).
 3. No real order placed yet; full path untested end to end.
 4. Shadowfax dispatch process not written down.
 5. Razorpay keys not rotated since a partial secret appeared in a chat (13 Oct).

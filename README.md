@@ -19,6 +19,7 @@ Last updated: 17 Nov 2026
 | `soul-wave/customer-messages.md` | Email and WhatsApp sequence rules, product descriptions. |
 | `soul-wave/meta-ads-campaign-2.md` | Meta ads: Campaign 1 facts, Campaign 2 targeting, budget, pincodes. |
 | `soul-wave/influencer-ugc.md` | Influencer and UGC collabs: categories, brief format, brief library, first 8 concepts. |
+| `soul-wave/email-setup.md` | Which address sends, receives and gets copies; Gmail inbox decisions. |
 | `log/` | One line per session: what was done, decided, learned. |
 
 `CLAUDE.md` tells Claude how to read and save to this repo.
