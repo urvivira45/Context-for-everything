@@ -14,6 +14,7 @@ Last updated: 17 Nov 2026
 | `linkedin/` | My business-focused LinkedIn (founder thinking) + the Soul Wave company page. |
 | `soul-wave/` | The business only (team can get this folder): overview, website, marketing, operations, learnings, current plan. |
 | `soul-wave/workshops.md` | Workshops: pricing, venues, every workshop run, ads, WhatsApp flow, table mats, season plan. |
+| `soul-wave/strategy-and-finance.md` | Capital, unit costs, campaign maths, pricing history, channels, strategy decisions, roadmap, targets over time. |
 | `soul-wave/kit-inserts.md` | Letter, cards and stickers inside the kit box. |
 | `soul-wave/seo-aeo-geo.md` | SEO, AEO, GEO goals, commitment and open ideas. |
 | `soul-wave/customer-messages.md` | Email and WhatsApp sequence rules, product descriptions. |

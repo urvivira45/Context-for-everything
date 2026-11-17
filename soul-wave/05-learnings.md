@@ -21,3 +21,6 @@ Read before revisiting pricing, ads or growth plans.
 - **Soul Wave is evergreen,** not gifting or festival-led. Lead with the joy of making.
 - **Festivals raise ad costs** (e.g. Big Billion Days). Don't compete in the festive window on a small budget.
 - **Case-sensitive hosting (Vercel) breaks images that work locally.** A Mac is case-insensitive, so `coaster.JPG` referenced as `coaster.jpg` loads locally but 404s live. Keep image filenames and their code references in matching lowercase.
+- **Festival season closes B2C workshop weekends** (Ganpati, Navratri, Diwali) and corporates don't book art workshops then either. Plan builds and kit pushes for those windows instead.
+- **Mumbai factories shut over Diwali until Labh Pancham.** Printing ordered just before Diwali arrives about a week late. Order before.
+- **Don't restart ad campaigns per budget phase.** Scale one campaign so the learning carries over.

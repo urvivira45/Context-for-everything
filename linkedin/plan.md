@@ -36,6 +36,7 @@ Last updated: 13 Nov 2026. Meant to grow for years. Add every post to `content-l
 - Planner chat owns this plan. The writing chat reads it before drafting, the messages chat reads it for how the corporate offer is positioned. Update the plan when it changes, not just the chat.
 - Chat scopes: planner = strategy, pillars, calendar, what's working, Soul Wave page start, outreach timing; writing = drafts, hooks, carousels, edits against the plan; messages = DMs, comments, corporate outreach, follow-ups, anything unexpected.
 - Brand colours and fonts also don't apply on the personal page.
+- Cadence conflict: this plan says 3 posts a week; the 5 Nov personal-brand mind map said 4 a week. Settle one.
 - Add `outreach.md` (corporate contacts and status) and `replies.md` (tricky comments/DMs and how they were handled) here.
 
 ## Writing rules
