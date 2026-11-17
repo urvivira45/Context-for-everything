@@ -16,6 +16,7 @@ Last updated: 17 Nov 2026
 | `soul-wave/workshops.md` | Workshops: pricing, venues, every workshop run, ads, WhatsApp flow, table mats, season plan. |
 | `soul-wave/strategy-and-finance.md` | Capital, unit costs, campaign maths, pricing history, channels, strategy decisions, roadmap, targets over time. |
 | `soul-wave/kit-inserts.md` | Letter, cards and stickers inside the kit box. |
+| `soul-wave/website/reviews.md` | The 11 real customer reviews: 5 homepage, 6 product page, wording rules. |
 | `soul-wave/seo-aeo-geo.md` | SEO, AEO, GEO goals, commitment and open ideas. |
 | `soul-wave/customer-messages.md` | Email and WhatsApp sequence rules, product descriptions. |
 | `soul-wave/meta-ads-campaign-2.md` | Meta ads: Campaign 1 facts, Campaign 2 targeting, budget, pincodes. |

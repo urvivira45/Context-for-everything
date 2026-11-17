@@ -1,6 +1,6 @@
 # Soul Wave Website (soulwave.co.in): How It's Built and How It Works
 
-Last updated: 12 Nov 2026. Built with Claude Code. This file is the non-code context: what exists, why, and the rules.
+Last updated: 17 Nov 2026. Built with Claude Code. This file is the non-code context: what exists, why, and the rules.
 
 ## Stack and infrastructure
 - WordPress + WooCommerce. Elementor + Astra (header/footer). Novamira plugin lets Claude Code build native, editable Elementor pages.
@@ -49,7 +49,7 @@ Hero → Reviews → Why Soul Wave Over Others → What's Inside → Choose Your
 - Hero trust ticks sit below the button, one line on desktop, stacked on mobile.
 - Why Soul Wave Over Others: one worry question at a time, "Others" (red cross) vs "Soul Wave" (tick) side by side, auto-moving carousel. Must keep the competitor comparison, it justifies ₹999.
 - Choose Your Kit order: Combo first.
-- Reviews: real only, emoji avatars (👸/🤴), never label the whole section "Google reviews". Google rating 5.0.
+- Reviews: real only, emoji avatars (👸/🤴), never label the whole section "Google reviews". Google rating 5.0. 5 reviews on the homepage, 6 on the product pages; full text and split in `soul-wave/website/reviews.md`.
 
 ## Product pages
 - Gallery: kit-contents photo is the 2nd image on every product page.
