@@ -13,7 +13,8 @@ Last updated: 17 Nov 2026. From the CEO chat (Jun to Nov 2026). Only what I deci
 - 18 Sep 2026: operating position -₹11,824, capital in hand ₹1,88,176. Okay not reaching break-even until the next two or three launches.
 - Hires funded from capital for about 3 months, then sales should cover them.
 - Founder salary: ₹15,000/month Dec 2026 to Feb 2027, raised only if the business is working (previously planned from 1 Oct, to be discussed with CFO). Longer-term want: ₹1,00,000/month (a want, not a need).
-- GST: not registered yet. Plan to register around ₹10 lakh turnover. A GST and transaction buffer is kept in costs anyway. Ad budgets: see Open for the GST-inclusive vs exclusive conflict.
+- GST: not registered yet. Plan to register around ₹10 lakh turnover. A GST and transaction buffer is kept in costs anyway.
+- All ad budgets include GST (kit and workshop campaigns): a ₹10,000 campaign means ₹10,000 including GST. CAC targets also include GST, so ₹250 CAC means ₹250 including GST. Sales figures are GST-inclusive too.
 
 ### 70-kit campaign maths (CFO chat, Sep 2026)
 | Line | Amount |
@@ -88,4 +89,3 @@ Last updated: 17 Nov 2026. From the CEO chat (Jun to Nov 2026). Only what I deci
 - Gate each new product launch on the previous one's real numbers.
 - Corporate gifting as a later upsell (coaster kit in gift packaging, minimum order quantity).
 - Combo framing "more to make, your next project ready and waiting".
-- Ad budget GST basis: `03-marketing.md` says GST-inclusive, CFO and ads chats used ex-GST. Settle one.

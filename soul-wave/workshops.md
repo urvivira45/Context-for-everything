@@ -70,7 +70,7 @@ Cancelled: Cuffe Parade 22 Aug, Doolally Khar 23 Aug (coaster supply), corporate
 - Pausing the weaker ad inside an ad set keeps the ad set's learning. Building a new ad set resets it, so never rebuild close to a workshop date.
 - Change one variable at a time, and not on the same day as a budget change.
 - Early setup rules: Advantage+ placements off, manual Reels/Stories, ~5km radius, craft interests + top-10% income, WhatsApp objective.
-- Budget pattern used: ~₹1,400 per location (₹164/day x 7 days + GST), re-message existing leads first. Ad budgets are set ex-GST; plan against 18% on top.
+- Budget pattern used: ~₹1,400 per location (₹164/day x 7 days + GST), re-message existing leads first. Ad budgets include GST (previously set ex-GST with 18% planned on top).
 - Use only our own samples and photos in ads, never another creator's.
 
 ### Oct 2026 campaign result (long weekend, 2 to 4 Oct)

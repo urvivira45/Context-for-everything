@@ -37,4 +37,5 @@ Last updated: 13 Nov 2026. From the Meta ads advisor chat (Oct to Nov 2026). The
 - Check courier Diwali cut-offs and GST claimability on ad spend.
 - Verify buyer pincodes 600085, 641103, 711106, 713347, 226025.
 - Not recorded: what actually launched, results, restart plan after the valley, whether connectors were set up.
+- Resolved 17 Nov: all ad budgets and CAC targets include GST.
 - Conflicts to resolve: `03-marketing.md` says kit launch ~16 to 18 Nov, ₹30k GST-inclusive ceiling and budgets tracked GST-inclusive; this chat used ₹24,500 excl. GST and an 11 Oct launch. `influencer-ugc.md` says site embeds are not raised with creators; this chat mentioned gifted kits for site embeds.

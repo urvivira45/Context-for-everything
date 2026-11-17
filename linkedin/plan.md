@@ -1,6 +1,6 @@
 # LinkedIn: Plan and Context
 
-Last updated: 13 Nov 2026. Meant to grow for years. Add every post to `content-log.md`.
+Last updated: 17 Nov 2026. Meant to grow for years. Add every post to `content-log.md`.
 
 ## Direction
 - Posted from my personal profile, but the content is business-focused: my thinking as a founder building Soul Wave, not personal life content.
@@ -8,7 +8,7 @@ Last updated: 13 Nov 2026. Meant to grow for years. Add every post to `content-l
 - It's my personal account, so not all Soul Wave brand rules apply here (exact list still open, see below).
 
 ## Plan (Nov 2026)
-- 3 posts a week on my profile, starting Nov 2026.
+- 3 posts a week on my profile, starting Nov 2026: detailed, proper posts. (Mind map said 4 a week; going with 3.)
 - Approach corporates after ~2 weeks of posts.
 - Soul Wave company page starts after ~4 weeks (see `soul-wave-company-page.md`).
 
@@ -36,7 +36,6 @@ Last updated: 13 Nov 2026. Meant to grow for years. Add every post to `content-l
 - Planner chat owns this plan. The writing chat reads it before drafting, the messages chat reads it for how the corporate offer is positioned. Update the plan when it changes, not just the chat.
 - Chat scopes: planner = strategy, pillars, calendar, what's working, Soul Wave page start, outreach timing; writing = drafts, hooks, carousels, edits against the plan; messages = DMs, comments, corporate outreach, follow-ups, anything unexpected.
 - Brand colours and fonts also don't apply on the personal page.
-- Cadence conflict: this plan says 3 posts a week; the 5 Nov personal-brand mind map said 4 a week. Settle one.
 - Add `outreach.md` (corporate contacts and status) and `replies.md` (tricky comments/DMs and how they were handled) here.
 
 ## Writing rules
