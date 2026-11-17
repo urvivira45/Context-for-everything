@@ -23,7 +23,7 @@ Last updated: 17 Nov 2026
 - Stock reorder system on WordPress (reorder level per item, low-stock alerts, supplier lead times). Not built yet.
 - Creators: tracking sheet (to create), 10 old-kit creators, 40 new-kit creators.
 - Workshops: venues and dates to 20 Dec, workshop ads, warm leads, WhatsApp flow for ₹1,400, workshop day SOP, table aesthetics.
-- Hiring: CVs, interview and select 2, onboarding SOPs.
+- Hiring: CVs, interview and select 2, onboarding SOPs. As of 12 Nov: final JDs done, Internshala shooting listing filled in, editing listing still to do. See `hiring.md`.
 - LinkedIn and corporate: strategy and topics, personal posts start now, corporate list, AI search setup, message flow.
 - Personal brand: strategy and pillars, standard shot list, 30-day content bank, Threads and Pinterest plan.
 - Soul Wave socials: strategy, bios updated, ready answers for comments (investors, HRs, gifting).

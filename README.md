@@ -22,6 +22,7 @@ Last updated: 17 Nov 2026
 | `soul-wave/meta-ads-campaign-2.md` | Meta ads: Campaign 1 facts, Campaign 2 targeting, budget, pincodes. |
 | `soul-wave/finance.md` | Finance: cost rules, capital, salaries, 100-order campaign budget, position. |
 | `soul-wave/influencer-ugc.md` | Influencer and UGC collabs: categories, brief format, brief library, first 8 concepts. |
+| `soul-wave/hiring.md` | Hiring the two Content Creation Associates: roles, pay, terms, JD rules, process, Internshala, open items. |
 | `soul-wave/email-setup.md` | Which address sends, receives and gets copies; Gmail inbox decisions. |
 | `log/` | One line per session: what was done, decided, learned. |
 
