@@ -44,7 +44,9 @@ Last updated: 23 Nov 2026. What the monitoring agent follows once ads are live. 
 | Kits per order | Kits / orders | higher is better |
 | Profit per order after ads | Average keep per order - CAC | positive |
 | Break-even CAC | Keep per order (`../finance.md`) | single ₹522, combo ₹668, 3 kits ₹1,145 |
-| Break-even ROAS | Average order value / average keep per order | |
+| Break-even ROAS | Average order value / average keep per order | ~1.9 (true break-even) |
+| Target ROAS (our ROAS) | Revenue / (spend x 1.18) | ≥3.5 at ₹380 CAC, ≥4.5 at ₹300 (at ~₹1,340 average order) |
+| Meta-shown ROAS | Revenue / spend excl. GST (what Ads Manager shows) | divide by 1.18 to get our ROAS |
 | Frequency | Impressions / reach | evidence only |
 | Tracking check | Meta purchases / Razorpay orders | within ~20% |
 | View-through share | 1-day view purchases / all purchases | under ~40% |
