@@ -1,13 +1,41 @@
-# Meta Ads: Campaign 1 Facts and Campaign 2 Plan
+# Meta Ads: Kit Campaign (Nov to Dec 2026), Campaign 1 Facts, October History
 
-Last updated: 13 Nov 2026. From the Meta ads advisor chat (Oct to Nov 2026). The plan below is as of ~11 Oct. What actually launched and its results are NOT recorded yet.
+Last updated: 23 Nov 2026. From the Meta ads advisor chat. Measures for the monitoring agent: `meta-ads-agent-measures.md`.
+
+## Current kit campaign (decided 17 to 23 Nov)
+- Launch goal: Friday 20 Nov 2026, run to 29 Dec. Whether it launched on time is not recorded yet.
+- Goal: 500 orders (singles and combos both count; a 3-kit order counts as 1 order). First milestone: at least 250 orders at ₹300 to ₹380 CAC incl. GST, then scale to 500.
+- Budget: ₹1,20,000 incl. GST for Meta ads (₹250 x 500 = ₹1,25,000, minus ~₹5,000 influencer kit shipping). Campaign 1's ₹10,000 is not counted against this goal.
+- Influencer campaign runs separately for awareness only; zero sales expected from it.
+- Cold traffic only: no warm audience exists. Trust on the site = reviews and the videos being posted now.
+- Profit lever: combos and 3-kit (Buy 2 Get 1) orders.
+- All 7 designs ship from launch. Ads use existing footage only (no new shoot).
+- Tracking: Pixel tested on the live site, all events recording.
+- Locations: no Mumbai (workshops already cover it). South first, then add North slowly. Wants more than 100 pincodes and does not want narrow pincodes to push CAC up; open to broader targeting. New IT belts count as Tier A (high salary, families looking for activities). Gujarat, Jaipur, Indore stay out (Campaign 1 drop-off).
+- No views/awareness campaign on Meta (cheap Punch Needle views don't convert); no retargeting of video viewers.
+- Few creatives with enough budget each, at launch.
+- Scaling approach: prefers launching a new campaign with its own budget over editing a running one (budget or ad changes restart learning).
+- Wants a ~₹2,000/day start.
+- Order of work: 1) strategy, 2) scripts and video edits, 3) monitoring agent, 4) Meta account setup with captions.
+- Monitoring agent: start free for the first month, paid later, so it does not come out of capital. Set up after the campaign is designed.
+- Website: "save up to ₹649" is correct (two singles ₹1,998 vs combo ₹1,349); combo copy to say "any two from all our designs"; no end date on the offer for now; stock line to be changed.
+
+## Open (Claude suggestions, NOT confirmed)
+- One campaign, ~₹2,000/day, one broad ad set (South states, Mumbai excluded, age 25+, Advantage+ audience), 4 to 5 distinct ads, optimised for Purchase. Pincode list (`soulwave_pincodes_nov2026.xlsx`, 109 pincodes, not in repo) as a later test campaign.
+- Stacking: a second campaign (~₹1,500/day, e.g. 3-kit offer angle or North) only after the first holds CAC at ₹380 or less for 3+ days. Budget allows about 2 stacked campaigns, not repeated doubling.
+- First read at ₹10,000 / day 5, then ₹5,000 blocks (13 to 16 orders each). Pause and fix if 16 or fewer orders after ₹10,000.
+- Refresh rule: under ~30 purchases, add new ads into the same ad set; after ~30, launch a new campaign.
+- Realistic estimate: ~300 to 350 orders at ~₹350 CAC; 500 needs ~3.3% site conversion.
+- Retargeting site visitors and add-to-carts at 5 to 10% of budget after ~1,000 visits.
+- Agent tool: Windsor.ai (30-day trial, then free plan with 1 source) plus Meta automated rules.
 
 ## Campaign 1 (WhatsApp-chat funnel)
 - Spent ₹8,474 for ~1,186 chats and 10 confirmed sales (9 from ads, 1 a friend's, the Hyderabad one). Cold CAC ~₹941. Meta claimed 12 purchases.
 - Conversion ~1.2%. City of each lead was never recorded, so city-level lead data does not exist.
 - Sales so far by pincode: Delhi 110034, Kolkata 711106, Chennai 600016 and 600085, Lucknow 226025, Burdwan 713347, Mumbai 400053, 401107, 401303, 400014, Hyderabad 500049, Coimbatore 641103.
 
-## Campaign 2 decisions
+## History: October plan (did NOT run)
+- No campaign ran in October: the 4 new kit designs were still in production.
 - Role of the chat: Meta ads advisor from Oct 2026. Answers must be researched and sourced.
 - Ad traffic goes to the new website, not WhatsApp. Launch target was 11 Oct (website was not ready before).
 - Targeting is by household affordability: ₹1 lakh household line, dual or triple income. Pincode level, not all India. Prefer old-money, owner-heavy areas. Judge by disposable income after rent or EMI. Wants every pincode verified and profiled. Start wide (~100 pincodes), then narrow.

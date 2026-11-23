@@ -24,6 +24,7 @@ Last updated: 17 Nov 2026
 | `soul-wave/influencer-ugc.md` | Influencer and UGC collabs: categories, brief format, brief library, first 8 concepts. |
 | `soul-wave/hiring.md` | Hiring the two Content Creation Associates: roles, pay, terms, JD rules, process, Internshala, open items. |
 | `soul-wave/email-setup.md` | Which address sends, receives and gets copies; Gmail inbox decisions. |
+| `soul-wave/meta-ads-agent-measures.md` | Measures and triggers the Meta ads monitoring agent checks. |
 | `log/` | One line per session: what was done, decided, learned. |
 
 `CLAUDE.md` tells Claude how to read and save to this repo.
