@@ -1,6 +1,6 @@
 # Meta Ads: Kit Campaign (Nov to Dec 2026), Campaign 1 Facts, October History
 
-Last updated: 23 Nov 2026. From the Meta ads advisor chat. Measures for the monitoring agent: `meta-ads-agent-measures.md`.
+Last updated: 23 Nov 2026. From the Meta ads advisor chat. Repeatable system: `meta-ads-system/`.
 
 ## Current kit campaign (decided 17 to 23 Nov)
 - Launch goal: Friday 20 Nov 2026, run to 29 Dec. Whether it launched on time is not recorded yet.

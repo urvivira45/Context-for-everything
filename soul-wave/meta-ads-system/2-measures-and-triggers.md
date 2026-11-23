@@ -1,4 +1,4 @@
-# Meta Ads Monitoring: Measures and Triggers
+# 2. Measures and Triggers
 
 Last updated: 23 Nov 2026. Urvi asked to save this list so we can add to it and track what the monitoring agent checks. Thresholds are Claude's rules of thumb from research, NOT yet confirmed by Urvi; to be tightened after a week of real data.
 
@@ -22,6 +22,15 @@ Last updated: 23 Nov 2026. Urvi asked to save this list so we can add to it and 
 | 11 | Cost per 1,000 reached | Steady | Ads wearing out or auction busier |
 | 12 | Learning status per ad set | Exits within ~7 days | Too little budget per ad set |
 | 13 | Meta purchases vs Razorpay orders | Within ~20% | Tracking |
+| 14 | Attribution split: 1-day view share of purchases | Under ~40% | Meta claiming sales it did not cause |
+| 15 | Cost per add to cart | ₹60 or less | Early signal before purchases come in |
+| 16 | Hold rate (ThruPlay / 3-sec views) | 15%+ | Ad loses people after the hook |
+| 17 | CAC by state (region breakdown) | Each state vs average | Which regions to keep, cut or add |
+| 18 | CAC by placement (Reels, Feed, Stories) | vs average | Where ads work |
+| 19 | CAC by age band | vs average | Who buys |
+| 20 | Event Match Quality (Events Manager) | 6+ out of 10 | Tracking quality |
+| 21 | Profit per order after ads (keep per order minus CAC) | Positive | Whether scaling makes money |
+| 22 | Payment failures (Razorpay) | Low, steady | Checkout friction |
 
 ## Triggers
 1. Ads wearing out: CAC, frequency and reach cost all rise for 3 days AND average CAC over ₹380. Refresh (under ~30 purchases: new ads in the same ad set; after: new campaign).
@@ -32,5 +41,6 @@ Last updated: 23 Nov 2026. Urvi asked to save this list so we can add to it and 
 ## Block rules (per ₹5,000 spent)
 - 16+ orders: raise budget 20%. 13 to 15: hold. 8 to 12: swap the 2 weakest ads, check the site. 7 or fewer twice in a row, or 16 or fewer after ₹10,000: pause and fix.
 
-## To add
-- Attribution and creative-angle points from the 23 Nov video transcripts (see Meta ads chat).
+## Status
+- Measures 1 to 13: proposed 23 Nov. Measures 14 to 22: proposed 23 Nov, pending Urvi's lock.
+- Weekly: check "Compare attribution settings" (1-day click vs 1-day view vs incremental).
