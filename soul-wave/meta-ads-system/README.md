@@ -1,20 +1,24 @@
 # Meta Ads System (Soul Wave)
 
-Last updated: 23 Nov 2026. The repeatable system for running kit ads. No campaign history here, only how to run it. Current campaign facts live in `../meta-ads-campaign-2.md`.
+Last updated: 23 Nov 2026. The repeatable system for running kit ads. No campaign history here, only how to run it. Current campaign facts: `../meta-ads-campaign-2.md`. Unit economics (what we keep per order): `../finance.md`.
 
 Status tags: **LOCKED** = Urvi decided. **PROPOSED** = Claude's suggestion, waiting for Urvi to lock.
 
-## Order of work (LOCKED)
-1. Strategy and structure: `1-structure-and-budget.md`
-2. Measures and triggers: `2-measures-and-triggers.md`
-3. Angles, hooks, scripts, then edit videos: `3-angles-hooks-scripts.md`
-4. Set up the monitoring agent
-5. Set up Meta: upload ads with captions
+## The six parts
+| # | File | Answers | Used by |
+|---|---|---|---|
+| 1 | `1-structure-and-budget.md` | How campaigns are built and grow; CAC stages | Strategy chat |
+| 2 | `2-launch-planner.md` | For any new campaign: daily budget, ad sets, ABO or CBO, checkpoints | New-campaign chat |
+| 3 | `3-ad-setup-checklist.md` | How to upload correctly | Urvi, before every upload |
+| 4 | `4-tracking-and-agent-rules.md` | Formulas, thresholds, decision rules, report rhythm | Monitoring agent |
+| 5 | `5-creative-system.md` + `market-research.md` | Angles, hooks, scripts, buyer language | Scripts chat |
+| 6 | `6-learning-library/` | Test log, creative library, campaign review | Everyone, after every test |
+| + | `seasonality-calendar.md` | When ads cost more | Launch planner |
 
-## Each cycle (one sales push, e.g. 500 orders)
-1. Set the goal, budget incl. GST, and target CAC. Check the site and tracking before spending.
-2. Build 4 to 5 ads from distinct angles (file 3).
-3. Launch one campaign (file 1). No changes for 3 days.
-4. Read the measures daily, act per ₹5,000 block (file 2).
-5. Stack a new campaign when the first meets target; refresh when ads wear out.
-6. After the cycle: record what worked in `../05-learnings.md`, update thresholds in file 2, repeat.
+## Order of work (LOCKED)
+1. Strategy and structure, 2. scripts and video edits, 3. monitoring agent, 4. Meta setup with captions.
+
+## The loop (each cycle, e.g. 500 orders)
+Market research → creative system (hooks, scripts) → launch planner (budget, structure) → setup checklist (upload) → agent (tracks daily and weekly) → learning library (logs why) → next cycle.
+
+After each cycle: fill `6-learning-library/campaign-review-template.md`, add lessons to `../05-learnings.md`, update thresholds in file 4.

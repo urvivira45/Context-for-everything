@@ -16,6 +16,7 @@ Last updated: 23 Nov 2026. From the Meta ads advisor chat. Repeatable system: `m
 - Few creatives with enough budget each, at launch.
 - Scaling approach: prefers launching a new campaign with its own budget over editing a running one (budget or ad changes restart learning).
 - Wants a ~₹2,000/day start.
+- Partnership ads start in week 2. Agent rhythm: alerts every 2 hours, daily summary, decisions every 3 days (small) with 7-day averages for big ones. Defense/offense rule adopted.
 - Order of work: 1) strategy, 2) scripts and video edits, 3) monitoring agent, 4) Meta account setup with captions.
 - Monitoring agent: start free for the first month, paid later, so it does not come out of capital. Set up after the campaign is designed.
 - Website: "save up to ₹649" is correct (two singles ₹1,998 vs combo ₹1,349); combo copy to say "any two from all our designs"; no end date on the offer for now; stock line to be changed.
