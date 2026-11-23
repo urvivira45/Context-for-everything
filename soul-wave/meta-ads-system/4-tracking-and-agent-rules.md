@@ -8,6 +8,21 @@ Last updated: 23 Nov 2026. What the monitoring agent follows once ads are live. 
 - Every 3 days: small decisions (pause weak ads, swap ads, fix a site step). (LOCKED: Urvi wants 3-day decisions)
 - Every 7 days: big decisions on the 7-day average (scale, stop a campaign, launch a new one), progress vs scoreboard, lessons for the test log.
 
+## Expectations the agent judges against (CAC stages, from file 1)
+Week 1 is learning: CAC ₹450 to ₹650 is normal, not failure. Only the stop rule (16 or fewer orders after ₹10,000) triggers a pause.
+| Week | Spend (incl. GST) | Expected CAC | Order goal (range) |
+|---|---|---|---|
+| 1 | ~₹14,000 | ₹450 to ₹650 | 25 (22 to 31) |
+| 2 | ~₹16,000 | ₹380 to ₹450 | 40 (36 to 42) |
+| 3 | ~₹24,500 | ₹300 to ₹380 | 70 (64 to 82) |
+| 4 | ~₹24,500 | ₹300 to ₹380 | 75 (64 to 82) |
+| 5 (5 days to 29 Dec) | ~₹17,500 | ₹280 to ₹340 | 55 (51 to 62) |
+| Total | ~₹96,500 | | ~265 (238 to 299) |
+Weeks 3 to 5 assume a second stacked campaign (incl. partnership ads from week 2) at ~₹3,500/day total. If a week misses its range, the agent runs the diagnosis order and says which stage lever is missing.
+
+## Research duty (PROPOSED)
+The agent does not rely only on account data. Weekly it also: checks Meta Ad Library for active Punch Needle and craft-kit ads in India (new competitors, ads running 30+ days); checks news of Meta changes (new settings, outages); checks the seasonality calendar and flags costly weeks ahead. It reports findings with sources and marks anything unverified.
+
 ## Decision rules (LOCKED unless marked)
 - Decide on 7-day averages; last 3 days show direction only. Never decide on one day.
 - Days 1 to 3: no changes. Day 5: safety check. Day 7: first big decision.

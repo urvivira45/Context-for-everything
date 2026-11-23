@@ -30,6 +30,12 @@ Talking head (founder), B-roll process (stitching close-ups), unboxing / what's 
 - Existing footage only for now. (LOCKED)
 - Structure: hook (0 to 3 s), problem or desire, product and what's inside, proof (review), offer and price, call to action.
 
+## Format plan (LOCKED)
+- Campaign 1: reels only (9:16). Placements are automatic, so the same 9:16 reels also run as Story ads (full-screen between stories).
+- Find 3 to 4 winning angles first; then make carousels, statics and more reels on those angles only.
+- Growth loop: angles → winning ad → more ads on that angle → scale.
+- Every reel highlights the sale (pick any 3, pay for 2). Wording "WhatsApp Support"; CTA to the website.
+
 ## Weekly production (PROPOSED)
 - Launch new ads on one fixed day a week (best sales day). 3 to 5 new ads a week at this budget.
 - Statics from the 7 product photos as a separate test; videos and statics in separate ad sets.
