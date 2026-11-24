@@ -67,3 +67,17 @@ Source: Urvi's customer queries. Research: wrong foundation fabric, yarn not mat
 - Day 10 ending: "Click below to get yours 🤍" (replaces "Tap Shop Now"; no website address).
 - Calm hobby: to be rewritten.
 - 5 angles going ahead. Next session (2 pm): go ad by ad, editing wording and videos together.
+
+## HELD: "It's not you" (first refresh or retest for the beginner angle) - written by Urvi, 24 Nov
+Use: if Want to try wins, this is the next ad on that angle; if Want to try loses, this is the retest with a new script and visuals. Format: voiceover with auto-captions, ~18s.
+| Time | Visual | Voiceover |
+|---|---|---|
+| 0-3s | Loops falling out of fabric | Your Punch Needle stitches aren't staying in? |
+| 3-5s | Hand pauses, needle down | Honestly, it's not the needle or you. |
+| 5-7s | Wrong fabric close-up | Maybe it's the wrong fabric, |
+| 7-9s | Thick yarn in the needle | the wrong yarn size, |
+| 9-11s | Uneven punching | or something missing in technique. |
+| 11-14s | Soul Wave fabric, yarn, needle; neat loops | We spent months testing the right combination, so it's easy and satisfying from day 1. |
+| 14-16s | WhatsApp chat on phone | Our kit even comes with real WhatsApp support. |
+| 16-18s | Offer card (Buy 2 Get 1 Free) | Tap to get yours now! |
+Note: the needle is fine; people don't know which yarn size suits it (the website asks if they have the same needle before selling without one). Watch average order value: buyers may pick the ₹899 without-needle kit.
