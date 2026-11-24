@@ -54,3 +54,10 @@ Source: Urvi's customer queries. Research: wrong foundation fabric, yarn not mat
 - Agitate: Wrong fabric? Yarn too thick for your needle? That's why most first tries fail.
 - Solution: Soul Wave kits: printed fabric, yarn and needle we tested together for months · Video tutorial · Stuck? WhatsApp us. A real person replies.
 - Action: Pick any 3 kits, pay for 2 · Tap Shop Now
+
+## Status 24 Nov (10:25)
+- Want to try: keep Urvi's original words in full (only required changes 1, 2, 5, 6). Runs ~18 to 20s; accepted.
+- Day 10: original words + offer card only (~15s); WhatsApp Support goes in the caption.
+- Calm hobby AIDA: approved.
+- Needle owners: angle approved; Urvi will rewrite the script herself.
+- 5th ad: Urvi reviewing Craftmate's ads; then choose which 4 of 5 to launch.
