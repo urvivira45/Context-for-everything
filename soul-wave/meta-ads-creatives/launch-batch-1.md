@@ -1,6 +1,6 @@
 # Launch Batch 1: Reel Scripts (Campaign 1, website)
 
-Last updated: 24 Nov 2026. Status: AWAITING URVI'S APPROVAL. Launch set: 3 angles LOCKED (beginner confidence = Want to try, stress relief = Day 10, feeling during = Calm hobby) + 2 more angles being added. Rule: no time claims (a piece takes 3 to 4+ hours). Rule (24 Nov): use Urvi's original scripts; change only what the website campaign requires, list every change with its reason, and get approval before any other change. Joy of making and pride are on hold until there is a script and research Urvi agrees with.
+Last updated: 24 Nov 2026. Status (24 Nov, latest): 4 ads LOCKED (Want to try v2, Day 10 v2, You NEED this one, Just another kit); 1 slot open. Older status below. Launch set: 3 angles LOCKED (beginner confidence = Want to try, stress relief = Day 10, feeling during = Calm hobby) + 2 more angles being added. Rule: no time claims (a piece takes 3 to 4+ hours). Rule (24 Nov): use Urvi's original scripts; change only what the website campaign requires, list every change with its reason, and get approval before any other change. Joy of making and pride are on hold until there is a script and research Urvi agrees with.
 
 ## Required changes only (each needs Urvi's OK)
 | # | Original | Change | Reason |
@@ -68,7 +68,7 @@ Source: Urvi's customer queries. Research: wrong foundation fabric, yarn not mat
 - Calm hobby: to be rewritten.
 - 5 angles going ahead. Next session (2 pm): go ad by ad, editing wording and videos together.
 
-## HELD: "It's not you" (first refresh or retest for the beginner angle) - written by Urvi, 24 Nov
+## REPLACED 24 Nov by "Just another kit" (kept for reference): "It's not you" - written by Urvi
 Use: if Want to try wins, this is the next ad on that angle; if Want to try loses, this is the retest with a new script and visuals. Format: voiceover with auto-captions, ~18s.
 | Time | Visual | Voiceover |
 |---|---|---|
@@ -149,3 +149,18 @@ Visual note: frame 1 must clearly show Punch Needle (the copy never names it). N
 | 4 | Tap the link to start now |
 Evidence: Knot Your Type hobby ad running since 6 Jul 2026. Frame 1 must clearly show Punch Needle. Watch: cheap clicks with add-to-cart under ~5% = curious non-buyers.
 Dropped: Calm hobby (as written), busy life. Next: 2 more angles.
+
+## LOCKED 24 Nov: "Just another kit" (tried and failed / kit quality, PAS) - Ad 4, replaces "It's not you"
+Audience: people who have seen or tried Punch Needle kits and doubt them (Urvi's customer chats: people give up when stitches won't stay in). Evidence: The Woobles run 4 active versions of the "just another kit" hook (~19s each). Format: kit-based visuals, Urvi's voiceover + auto-captions, ~20s. Not a talking-head testimonial.
+| # | Voiceover (Urvi) | Visual |
+|---|---|---|
+| Hook | Think this is just another Punch Needle kit? It's not. | Frame 1: needle going in, kit visible, motion, no logo |
+| 2 | If your stitches never stayed in, it was never the needle or you. | Loose loops pulling out |
+| 3 | It's usually the fabric, yarn size or technique. | |
+| 4 | So we tested it for months until stitches stay in, even for beginners. | Clean loops going in (closes the loop) |
+| 5 | Stuck? A real person replies on WhatsApp. | Phone with WhatsApp chat |
+| 6 | Tap to get yours now. | Finished piece = payoff |
+End card (text, not voiced): Buy 2 Get 1 Free.
+Rules for this ad: no brand named, no competitor box shown, no "cheap" (Urvi's decision), no "other kits use cheap fabric", no "the only kit". Keep proof of the fabric/yarn testing.
+Judge on cost per purchase and order quality, not reach (Urvi accepts fewer impressions).
+
