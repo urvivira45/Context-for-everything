@@ -61,3 +61,9 @@ Source: Urvi's customer queries. Research: wrong foundation fabric, yarn not mat
 - Calm hobby AIDA: approved.
 - Needle owners: angle approved; Urvi will rewrite the script herself.
 - 5th ad: Urvi reviewing Craftmate's ads; then choose which 4 of 5 to launch.
+
+## Status 24 Nov (10:33)
+- Ads stay short; no extra seconds. Offer card stays short (no added words).
+- Day 10 ending: "Click below to get yours 🤍" (replaces "Tap Shop Now"; no website address).
+- Calm hobby: to be rewritten.
+- 5 angles going ahead. Next session (2 pm): go ad by ad, editing wording and videos together.
