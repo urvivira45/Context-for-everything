@@ -93,15 +93,20 @@ Note: the needle is fine; people don't know which yarn size suits it (the websit
 | Tap to get your Kit now | Tap to get yours now ✨ |
 Open: offer card (Buy 2 Get 1 Free) on the last frame, yes or no.
 
-## LOCKED 24 Nov: Day 10 (stress relief) - text overlay + music, no voiceover
-1. Day 10 of trying something new to manage my stress
-2. Soul Wave's punch needle kit
-3. Never done this before, but it's just punch and pull 🪡
-4. And the best part? The motion feels weirdly calming 🤍
-5. I'd forgotten how calming creating can feel ✨
-6. Super beginner friendly. Comes with everything.
-7. Tap link to get yours 🤍
-Open: offer card on the last frame (decide in edit).
+## LOCKED 24 Nov: Day 10 (stress relief) - text beats + calm music, no voiceover, ~16s
+| Beat | Text | Sec | Visual |
+|---|---|---|---|
+| 1 | **Day 10** of trying something new | 1.5 | Motion from frame one: close-up hands punching bright yarn; no logo |
+| 2 | …to manage my stress | 1.5 | |
+| 3 | Soul Wave's punch needle kit | 1.5 | Kit |
+| 4 | Never done this before 🙈 | 1.5 | |
+| 5 | but it's just **punch & pull** 🪡 | 2 | Punching |
+| 6 | The best part? | 1 | |
+| 7 | The motion feels **weirdly calming** 🤍 | 2 | Slow loops |
+| 8 | Got stuck once… | 1 | |
+| 9 | someone **actually replied** on WhatsApp 😮 | 2 | Phone with WhatsApp chat |
+| 10 | Tap link to get yours 🤍 | 1.5 | Finished (or nearly finished) piece = the payoff |
+Cut text changes to the music beat. Open: offer card (decide in edit). Structure: AIDA.
 
 ## LOCKED 24 Nov (v2, supersedes earlier Day 10 lock): Day 10 (stress relief) - text beats + calm music, ~16s, AIDA
 1. **Day 10** of trying something new (1.5s)
