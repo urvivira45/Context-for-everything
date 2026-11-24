@@ -129,3 +129,13 @@ Evidence: Knot Your Type hobby ad running since 6 Jul 2026 (~4.5 months). Hook f
 4. Everything comes ready
 5. Tap the link to start now
 Open: name Punch Needle in a line or only in visuals; add "Just punch, pause & unwind 🤍" back or not.
+
+## LOCKED 24 Nov: Hobby seeker (replaces Calm hobby) - text beats
+Angle: new-hobby seekers (Knot Your Type's hobby ad has run since 6 Jul 2026). Hook: want vs need flip.
+1. You don't want another hobby… you NEED this one
+2. No experience needed
+3. Loved by 100+ people
+4. Everything comes ready
+5. yarn • hoop • fabric • guidance
+6. Tap the link to start now
+Visual note: frame 1 must clearly show Punch Needle (the copy never names it). No health language next to "need".
