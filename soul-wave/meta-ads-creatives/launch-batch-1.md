@@ -102,3 +102,16 @@ Open: offer card (Buy 2 Get 1 Free) on the last frame, yes or no.
 6. Super beginner friendly. Comes with everything.
 7. Tap link to get yours 🤍
 Open: offer card on the last frame (decide in edit).
+
+## LOCKED 24 Nov (v2, supersedes earlier Day 10 lock): Day 10 (stress relief) - text beats + calm music, ~16s, AIDA
+1. **Day 10** of trying something new (1.5s)
+2. …to manage my stress (1.5s)
+3. Soul Wave's punch needle kit (1.5s)
+4. Never done this before 🙈 (1.5s)
+5. but it's just **punch & pull** 🪡 (2s, punching clip)
+6. The best part? (1s)
+7. The motion feels **weirdly calming** 🤍 (2s, slow loops)
+8. Got stuck once… (1s)
+9. someone **actually replied** on WhatsApp 😮 (2s, phone with WhatsApp chat)
+10. Tap link to get yours 🤍 (1.5s, FINISHED PIECE on screen = the payoff)
+Visual notes: frame 1 = motion (hands punching bright yarn close-up), "Day 10" big and bold, no logo intro. Cut text changes to the music beat. Offer card decided in edit.
