@@ -120,3 +120,12 @@ Cut text changes to the music beat. Open: offer card (decide in edit). Structure
 9. someone **actually replied** on WhatsApp 😮 (2s, phone with WhatsApp chat)
 10. Tap link to get yours 🤍 (1.5s, FINISHED PIECE on screen = the payoff)
 Visual notes: frame 1 = motion (hands punching bright yarn close-up), "Day 10" big and bold, no logo intro. Cut text changes to the music beat. Offer card decided in edit.
+
+## IN PROGRESS 24 Nov: Hobby seeker (replaces Calm hobby) - hook locked
+Evidence: Knot Your Type hobby ad running since 6 Jul 2026 (~4.5 months). Hook format: want/need flip seen on Reels.
+1. You don't want another hobby… you NEED this one (LOCKED hook)
+2. No experience needed
+3. Loved by 100+ people
+4. Everything comes ready
+5. Tap the link to start now
+Open: name Punch Needle in a line or only in visuals; add "Just punch, pause & unwind 🤍" back or not.
