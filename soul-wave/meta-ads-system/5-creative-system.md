@@ -11,13 +11,16 @@ Concept → angle → visual format → hook → script.
 - A killed angle is retested once in the next campaign with different visuals. If it fails again, the angle is dropped completely.
 - When an ad wins, find out whether the script or the visuals did it (change one at a time).
 
+## Angle selection rule (LOCKED, 24 Nov)
+- Only angles scoring 4+ out of 5 on outside research are used. Scores: beginner confidence 5, feeling during 4, joy of making 4, stress relief 4, pride 4, something of my own 3 (dropped).
+- Every script follows AIDA or PAS; the first 3 seconds are the hook.
+
 ## Launch angles, Campaign 1 (LOCKED, 24 Nov)
 1. Beginner confidence ("easy even if you've never made anything")
 2. The feeling during (getting absorbed, mind going quiet)
-3. Something of my own (6 of 10 Campaign 1 buyers)
-4. Joy of making (top reason people craft: 82.1%)
-5. Stress relief (kept despite the Brand Bible rule because Campaign 1's best ad, Day 10, led with stress; unknown whether script or visuals sold it)
-Held back: gift/heritage (later test). Not used as the lead: phone-free (Brand Bible: not a digital detox brand), pride/"I made this" (Brand Bible: don't lead with the output; can be proof at the end).
+3. Joy of making (top reason people craft: 82.1%)
+4. Stress relief (kept despite the Brand Bible rule because Campaign 1's best ad, Day 10, led with stress; unknown whether script or visuals sold it)
+Pride (score 4) optional as a fifth ad, Urvi to decide. Something of my own dropped (score 3). Held back: gift/heritage (later test). Not used as the lead: phone-free (Brand Bible: not a digital detox brand), pride/"I made this" (Brand Bible: don't lead with the output; can be proof at the end).
 
 ## Selecting angles
 - Lead with desire, outcome and transformation (calm, me-time, finishing something to hang on the wall). These last longer.
