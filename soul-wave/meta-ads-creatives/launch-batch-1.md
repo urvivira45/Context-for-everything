@@ -139,3 +139,13 @@ Angle: new-hobby seekers (Knot Your Type's hobby ad has run since 6 Jul 2026). H
 5. yarn • hoop • fabric • guidance
 6. Tap the link to start now
 Visual note: frame 1 must clearly show Punch Needle (the copy never names it). No health language next to "need".
+
+## LOCKED 24 Nov: "You NEED this one" (hobby seeker, AIDA) - replaces Calm hobby
+| Card | Text |
+|---|---|
+| 1 (hook) | You don't want another hobby… you NEED this one |
+| 2 | No experience needed • Just punch, pause & unwind • Loved by 100+ people (pop in one at a time, ~0.7s apart) |
+| 3 | Everything comes ready: yarn • hoop • fabric • video tutorial • WhatsApp support |
+| 4 | Tap the link to start now |
+Evidence: Knot Your Type hobby ad running since 6 Jul 2026. Frame 1 must clearly show Punch Needle. Watch: cheap clicks with add-to-cart under ~5% = curious non-buyers.
+Dropped: Calm hobby (as written), busy life. Next: 2 more angles.
