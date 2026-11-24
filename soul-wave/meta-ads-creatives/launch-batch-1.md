@@ -1,6 +1,6 @@
 # Launch Batch 1: Reel Scripts (Campaign 1, website)
 
-Last updated: 24 Nov 2026. Status: AWAITING URVI'S APPROVAL. Launch set: 3 ads (Want to try, Day 10, Calm hobby). Rule (24 Nov): use Urvi's original scripts; change only what the website campaign requires, list every change with its reason, and get approval before any other change. Joy of making and pride are on hold until there is a script and research Urvi agrees with.
+Last updated: 24 Nov 2026. Status: AWAITING URVI'S APPROVAL. Launch set: 3 angles LOCKED (beginner confidence = Want to try, stress relief = Day 10, feeling during = Calm hobby) + 2 more angles being added. Rule: no time claims (a piece takes 3 to 4+ hours). Rule (24 Nov): use Urvi's original scripts; change only what the website campaign requires, list every change with its reason, and get approval before any other change. Joy of making and pride are on hold until there is a script and research Urvi agrees with.
 
 ## Required changes only (each needs Urvi's OK)
 | # | Original | Change | Reason |
@@ -41,3 +41,16 @@ Try Soul Wave → Tap Shop Now [change 1] · offer card [change 5]
 - Mental peace (Campaign 1 Ad 3): dropped; Day 10 already covers stress relief.
 - Joy of making, pride: no tested script; Urvi not convinced. Revisit with research.
 - Ad 2 (People who try) and Ad 5 (3 reasons): 0 sales in Campaign 1; both mix several angles.
+
+## Pending approval: Calm hobby rebuilt as AIDA (no time claim)
+- Attention (0-3s): Looking for a calm, hands-on hobby? (threading clip)
+- Interest: No experience needed ✨ (punching clip)
+- Desire: Just punch, pause, and unwind ✨🤍 (punching clip) · Everything comes ready ✨ yarn • hoop • fabric • guidance · Slowly, your own piece comes to life 🤍 (finished piece) · Stuck? WhatsApp us. A real person replies.
+- Action: Pick any 3 kits, pay for 2 · Tap Shop Now
+
+## Pending approval: NEW angle "Already have a needle, stitches won't stay" (PAS)
+Source: Urvi's customer queries. Research: wrong foundation fabric, yarn not matched to the needle, and short loops are the main reasons loops pull out (KnitPro, Studio Koekoek).
+- Problem (0-3s): loops falling out of fabric → Already have a punch needle, but your stitches keep coming out?
+- Agitate: Wrong fabric? Yarn too thick for your needle? That's why most first tries fail.
+- Solution: Soul Wave kits: printed fabric, yarn and needle we tested together for months · Video tutorial · Stuck? WhatsApp us. A real person replies.
+- Action: Pick any 3 kits, pay for 2 · Tap Shop Now
