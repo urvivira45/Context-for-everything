@@ -5,6 +5,20 @@ Last updated: 23 Nov 2026. How to choose what goes into the ads. (PROPOSED unles
 ## Build order for every ad
 Concept → angle → visual format → hook → script.
 
+## Angle testing rule (LOCKED, 24 Nov)
+- One angle per ad. Choose angles from research + brand fit + own sales data, never on intuition.
+- Losing ads (no sales or low-quality sales) are killed in the running campaign.
+- A killed angle is retested once in the next campaign with different visuals. If it fails again, the angle is dropped completely.
+- When an ad wins, find out whether the script or the visuals did it (change one at a time).
+
+## Launch angles, Campaign 1 (LOCKED, 24 Nov)
+1. Beginner confidence ("easy even if you've never made anything")
+2. The feeling during (getting absorbed, mind going quiet)
+3. Something of my own (6 of 10 Campaign 1 buyers)
+4. Joy of making (top reason people craft: 82.1%)
+5. Stress relief (kept despite the Brand Bible rule because Campaign 1's best ad, Day 10, led with stress; unknown whether script or visuals sold it)
+Held back: gift/heritage (later test). Not used as the lead: phone-free (Brand Bible: not a digital detox brand), pride/"I made this" (Brand Bible: don't lead with the output; can be proof at the end).
+
 ## Selecting angles
 - Lead with desire, outcome and transformation (calm, me-time, finishing something to hang on the wall). These last longer.
 - Use fear or urgency (stock left, deadlines) sparingly: they spike and burn out within about a week.
