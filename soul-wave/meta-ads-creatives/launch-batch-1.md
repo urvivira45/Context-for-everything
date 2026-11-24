@@ -1,166 +1,49 @@
-# Launch Batch 1: Reel Scripts (Campaign 1, website)
+# Launch Batch 1: Reel Scripts (Campaign 2, website)
 
-Last updated: 24 Nov 2026. Status (24 Nov, latest): 4 ads LOCKED (Want to try v2, Day 10 v2, You NEED this one, Just another kit); 1 slot open. Older status below. Launch set: 3 angles LOCKED (beginner confidence = Want to try, stress relief = Day 10, feeling during = Calm hobby) + 2 more angles being added. Rule: no time claims (a piece takes 3 to 4+ hours). Rule (24 Nov): use Urvi's original scripts; change only what the website campaign requires, list every change with its reason, and get approval before any other change. Joy of making and pride are on hold until there is a script and research Urvi agrees with.
+Last updated: 24 Nov 2026. Status: ALL 5 LOCKED (Urvi's final versions, 24 Nov). Urvi edits the reels; offer card per ad decided in the edit.
 
-## Required changes only (each needs Urvi's OK)
-| # | Original | Change | Reason |
-|---|---|---|---|
-| 1 | "Message us / Message Soul Wave Now" | "Tap Shop Now" | Ads now go to the website (Urvi's decision) |
-| 2 | "Call Support" | "WhatsApp Support" | Urvi's decision; support is WhatsApp only |
-| 3 | "Everything included" | Kept as is (Urvi's decision) | |
-| 4 | "Limited kits available" | Removed | No urgency lead (Urvi's decision, 24 Nov) |
-| 5b | WhatsApp Support | Emphasised as the differentiator | Urvi: no one else offers it |
-| 5 | (none) | Offer card at the end: "Pick any 3 kits, pay for 2" | Urvi's decision: highlight the sale in reels |
-| 6 | Typos (avaialable, nedle, Tutorail) | Spelling fixed | |
+Rules for these ads: angles need outside research 4+; AIDA or PAS; first 3 seconds carry the ad; ~15 to 20s; no urgency, no time claims, no health claims from Soul Wave; "Everything included" allowed; CTA goes to the website; Meta Sound Collection music only. Angle testing: kill losers, retest a killed angle once next campaign with new visuals, drop it if it fails again.
 
-## Ad 1: Want to try (beginner confidence, PAS) - Campaign 1 Ad 1, 2 sales
-Want to try punch needling?
-Wrong fabric? / Stitches not staying in? / Which needle to use?
-Soul Wave DIY Kits
-Everything included for an easy start
-Punch needle ✅ Fabric ✅ Yarn & hoop ✅ Video tutorial ✅ WhatsApp Support ✅ [change 2]
-Tap Shop Now [change 1] · offer card [change 5]
+| # | Ad | Angle | Structure | Format |
+|---|---|---|---|---|
+| 1 | Want to try | Beginner confidence | PAS | Voiceover + text overlay |
+| 2 | Day 10 | Stress relief | AIDA | Text beats + calm music |
+| 3 | You NEED this one | Hobby seeker | AIDA | Text overlay |
+| 4 | Just another kit | Tried and failed / kit quality | PAS | Urvi voiceover + captions, kit-based visuals |
+| 5 | Forget your phone | Absorption (phone) | AIDA | Workshop clip + text overlay |
 
-## Ad 4: Day 10 (stress relief, AIDA) - Campaign 1 Ad 4, 4 sales, best ad. Words unchanged.
-Day 10 of trying something new to manage my stress
-Soul Wave's punch needle kit
-Just punch and pull 🪡
-And the best part? The motion feels weirdly calming 🤍
-I forgot how calming creating can feel ✨
-Tap Shop Now [change 1] · offer card [change 5]
-Open question: the Campaign 1 report says Ad 4 used named customer quotes. Were they in the video? Urvi to confirm.
-
-## Ad 6: Calm hands-on hobby (feeling during, AIDA) - Campaign 1 Ad 6, 1 sale
-Looking for a calm, hands-on hobby? (threading clip)
-No experience needed ✨ (punching clip)
-Just punch, pause, and unwind ✨🤍 (punching clip)
-Everything comes ready ✨ yarn • hoop • fabric • guidance
-Try Soul Wave → Tap Shop Now [change 1] · offer card [change 5]
-
-## On hold
-- Mental peace (Campaign 1 Ad 3): dropped; Day 10 already covers stress relief.
-- Joy of making, pride: no tested script; Urvi not convinced. Revisit with research.
-- Ad 2 (People who try) and Ad 5 (3 reasons): 0 sales in Campaign 1; both mix several angles.
-
-## Pending approval: Calm hobby rebuilt as AIDA (no time claim)
-- Attention (0-3s): Looking for a calm, hands-on hobby? (threading clip)
-- Interest: No experience needed ✨ (punching clip)
-- Desire: Just punch, pause, and unwind ✨🤍 (punching clip) · Everything comes ready ✨ yarn • hoop • fabric • guidance · Slowly, your own piece comes to life 🤍 (finished piece) · Stuck? WhatsApp us. A real person replies.
-- Action: Pick any 3 kits, pay for 2 · Tap Shop Now
-
-## Pending approval: NEW angle "Already have a needle, stitches won't stay" (PAS)
-Source: Urvi's customer queries. Research: wrong foundation fabric, yarn not matched to the needle, and short loops are the main reasons loops pull out (KnitPro, Studio Koekoek).
-- Problem (0-3s): loops falling out of fabric → Already have a punch needle, but your stitches keep coming out?
-- Agitate: Wrong fabric? Yarn too thick for your needle? That's why most first tries fail.
-- Solution: Soul Wave kits: printed fabric, yarn and needle we tested together for months · Video tutorial · Stuck? WhatsApp us. A real person replies.
-- Action: Pick any 3 kits, pay for 2 · Tap Shop Now
-
-## Status 24 Nov (10:25)
-- Want to try: keep Urvi's original words in full (only required changes 1, 2, 5, 6). Runs ~18 to 20s; accepted.
-- Day 10: original words + offer card only (~15s); WhatsApp Support goes in the caption.
-- Calm hobby AIDA: approved.
-- Needle owners: angle approved; Urvi will rewrite the script herself.
-- 5th ad: Urvi reviewing Craftmate's ads; then choose which 4 of 5 to launch.
-
-## Status 24 Nov (10:33)
-- Ads stay short; no extra seconds. Offer card stays short (no added words).
-- Day 10 ending: "Click below to get yours 🤍" (replaces "Tap Shop Now"; no website address).
-- Calm hobby: to be rewritten.
-- 5 angles going ahead. Next session (2 pm): go ad by ad, editing wording and videos together.
-
-## REPLACED 24 Nov by "Just another kit" (kept for reference): "It's not you" - written by Urvi
-Use: if Want to try wins, this is the next ad on that angle; if Want to try loses, this is the retest with a new script and visuals. Format: voiceover with auto-captions, ~18s.
-| Time | Visual | Voiceover |
-|---|---|---|
-| 0-3s | Loops falling out of fabric | Your Punch Needle stitches aren't staying in? |
-| 3-5s | Hand pauses, needle down | Honestly, it's not the needle or you. |
-| 5-7s | Wrong fabric close-up | Maybe it's the wrong fabric, |
-| 7-9s | Thick yarn in the needle | the wrong yarn size, |
-| 9-11s | Uneven punching | or something missing in technique. |
-| 11-14s | Soul Wave fabric, yarn, needle; neat loops | We spent months testing the right combination, so it's easy and satisfying from day 1. |
-| 14-16s | WhatsApp chat on phone | Our kit even comes with real WhatsApp support. |
-| 16-18s | Offer card (Buy 2 Get 1 Free) | Tap to get yours now! |
-Note: the needle is fine; people don't know which yarn size suits it (the website asks if they have the same needle before selling without one). Watch average order value: buyers may pick the ₹899 without-needle kit.
-
-## LOCKED 24 Nov: Want to try (beginner confidence) - v2 (testing line replaces "made to fix exactly this")
+## Ad 1: Want to try (beginner confidence, PAS)
 | Voiceover | Text overlay |
 |---|---|
 | You want to try punch needling? | Want to try punch needling? |
-| But not sure which fabric to use? Stitches not staying in? Confused about the needle? | Wrong fabric? Stitches not staying in? Which needle to use? |
-| We spent months testing the right combination, so it's easy and satisfying from day 1. | Soul Wave DIY Kits |
-| This kit includes everything you need. | Everything included for an easy start |
-| Even real WhatsApp Support!! | Punch needle ✅ Fabric ✅ Yarn & hoop ✅ Video tutorial ✅ Real WhatsApp Support ✅ |
+| But not sure which fabric to use? / Stitches not staying in? / Confused about the needle? | Wrong fabric? / Stitches not staying in? / Which needle to use? |
+| We spent months testing the right combination, so it's easy and satisfying from day 1 | Soul Wave DIY Kits |
+| This kit includes everything you need | Everything included for an easy start |
+| Even real WhatsApp Support!! | Punch needle ✅ Fabric ✅ Yarn & hoop ✅ Video tutorial ✅ Real Whatsapp Support ✅ |
 | Tap to get your Kit now | Tap to get yours now ✨ |
-Open: offer card (Buy 2 Get 1 Free) on the last frame, yes or no.
+Note: Urvi fixes the "Whatsapp" spelling in the edit.
 
-## LOCKED 24 Nov: Day 10 (stress relief) - text beats + calm music, no voiceover, ~16s
-| Beat | Text | Sec | Visual |
-|---|---|---|---|
-| 1 | **Day 10** of trying something new | 1.5 | Motion from frame one: close-up hands punching bright yarn; no logo |
-| 2 | …to manage my stress | 1.5 | |
-| 3 | Soul Wave's punch needle kit | 1.5 | Kit |
-| 4 | Never done this before 🙈 | 1.5 | |
-| 5 | but it's just **punch & pull** 🪡 | 2 | Punching |
-| 6 | The best part? | 1 | |
-| 7 | The motion feels **weirdly calming** 🤍 | 2 | Slow loops |
-| 8 | Got stuck once… | 1 | |
-| 9 | someone **actually replied** on WhatsApp 😮 | 2 | Phone with WhatsApp chat |
-| 10 | Tap link to get yours 🤍 | 1.5 | Finished (or nearly finished) piece = the payoff |
-Cut text changes to the music beat. Open: offer card (decide in edit). Structure: AIDA.
+## Ad 2: Day 10 (stress relief, AIDA), text beats, calm music, ~16s
+Day 10 of trying something new / to manage my stress / Soul Wave's punch needle kit / Never done this before 🙈 / but it's just punch & pull 🪡 / And the best part? / The motion feels weirdly calming 🤍 / Got stuck once... / Someone actually replied on WhatsApp 😮 / Tap link to get yours 🤍
+Visual: motion close-up from frame 1, no logo intro; finished piece as the payoff.
 
-## LOCKED 24 Nov (v2, supersedes earlier Day 10 lock): Day 10 (stress relief) - text beats + calm music, ~16s, AIDA
-1. **Day 10** of trying something new (1.5s)
-2. …to manage my stress (1.5s)
-3. Soul Wave's punch needle kit (1.5s)
-4. Never done this before 🙈 (1.5s)
-5. but it's just **punch & pull** 🪡 (2s, punching clip)
-6. The best part? (1s)
-7. The motion feels **weirdly calming** 🤍 (2s, slow loops)
-8. Got stuck once… (1s)
-9. someone **actually replied** on WhatsApp 😮 (2s, phone with WhatsApp chat)
-10. Tap link to get yours 🤍 (1.5s, FINISHED PIECE on screen = the payoff)
-Visual notes: frame 1 = motion (hands punching bright yarn close-up), "Day 10" big and bold, no logo intro. Cut text changes to the music beat. Offer card decided in edit.
+## Ad 3: You NEED this one (hobby seeker, AIDA), text overlay
+You don't want another hobby… you NEED this one / No experience needed / Just punch, pause & unwind / Loved by 100+ people / Everything comes ready / yarn • hoop • fabric • guidance / Tap the link to start now
+Evidence: Knot Your Type hobby ad running since 6 Jul 2026. Frame 1 must clearly show Punch Needle. Watch: add-to-cart under ~5% = curious non-buyers.
 
-## IN PROGRESS 24 Nov: Hobby seeker (replaces Calm hobby) - hook locked
-Evidence: Knot Your Type hobby ad running since 6 Jul 2026 (~4.5 months). Hook format: want/need flip seen on Reels.
-1. You don't want another hobby… you NEED this one (LOCKED hook)
-2. No experience needed
-3. Loved by 100+ people
-4. Everything comes ready
-5. Tap the link to start now
-Open: name Punch Needle in a line or only in visuals; add "Just punch, pause & unwind 🤍" back or not.
+## Ad 4: Just another kit (tried and failed, PAS), Urvi voiceover, ~20s
+Think this is just another Punch Needle kit? It's not. / If your stitches never stayed in, it was never the needle or you. / It's usually the fabric, yarn size or technique. / So we tested it for months until stitches stay in, even for beginners. / Stuck? A real person replies on WhatsApp. / Tap to get yours now.
+End card: Buy 2 Get 1 Free. Visuals: needle going in at frame 1 (kit visible), loose loops on line 2, clean loops on line 4, finished piece at the end. Not a talking head.
+Evidence: The Woobles run 4 active versions of the "just another kit" hook; Urvi's chats (people give up when stitches won't stay in).
+Rules: no brand named, no competitor box, no "cheap" (Urvi's decision), no "the only kit". Keep proof of fabric/yarn testing. Judge on cost per purchase and order quality, not reach (Urvi accepts fewer impressions).
 
-## LOCKED 24 Nov: Hobby seeker (replaces Calm hobby) - text beats
-Angle: new-hobby seekers (Knot Your Type's hobby ad has run since 6 Jul 2026). Hook: want vs need flip.
-1. You don't want another hobby… you NEED this one
-2. No experience needed
-3. Loved by 100+ people
-4. Everything comes ready
-5. yarn • hoop • fabric • guidance
-6. Tap the link to start now
-Visual note: frame 1 must clearly show Punch Needle (the copy never names it). No health language next to "need".
+## Ad 5: Forget your phone (absorption, AIDA), text overlay, ~15s
+We asked her what she thinks about Punch Needle… (text over the workshop clip, heart over her face) / Her real voice: "…very therapeutic" (exact words, big caption) / Honestly? You'll forget to check your phone 📱 / Soul Wave's Punch Needle kit • everything included, even a video tutorial / Stuck? Someone will definitely reply on WhatsApp / Tap to get yours 🤍
+End card: Buy 2 Get 1 Free. Visuals: phone face-down lighting up and ignored while hands punch; finished piece at the end. Music from Meta Sound Collection, different from Ads 2 and 3. Clean up the clip audio.
+Decisions (Urvi): use the customer's "therapeutic" (her words, not Soul Wave's claim); text overlay, no AI voiceover; customer consent taken while recording; faces covered with hearts. Framing is "forget to check your phone", never "stay away from your phone" (Brand Bible: not a digital detox brand).
+Evidence: screen-time and offline-hobby content is everywhere on Reels (Urvi); Pinterest 2026 Hobbies Report; Etsy/Google analog-hobby search growth.
 
-## LOCKED 24 Nov: "You NEED this one" (hobby seeker, AIDA) - replaces Calm hobby
-| Card | Text |
-|---|---|
-| 1 (hook) | You don't want another hobby… you NEED this one |
-| 2 | No experience needed • Just punch, pause & unwind • Loved by 100+ people (pop in one at a time, ~0.7s apart) |
-| 3 | Everything comes ready: yarn • hoop • fabric • video tutorial • WhatsApp support |
-| 4 | Tap the link to start now |
-Evidence: Knot Your Type hobby ad running since 6 Jul 2026. Frame 1 must clearly show Punch Needle. Watch: cheap clicks with add-to-cart under ~5% = curious non-buyers.
-Dropped: Calm hobby (as written), busy life. Next: 2 more angles.
-
-## LOCKED 24 Nov: "Just another kit" (tried and failed / kit quality, PAS) - Ad 4, replaces "It's not you"
-Audience: people who have seen or tried Punch Needle kits and doubt them (Urvi's customer chats: people give up when stitches won't stay in). Evidence: The Woobles run 4 active versions of the "just another kit" hook (~19s each). Format: kit-based visuals, Urvi's voiceover + auto-captions, ~20s. Not a talking-head testimonial.
-| # | Voiceover (Urvi) | Visual |
-|---|---|---|
-| Hook | Think this is just another Punch Needle kit? It's not. | Frame 1: needle going in, kit visible, motion, no logo |
-| 2 | If your stitches never stayed in, it was never the needle or you. | Loose loops pulling out |
-| 3 | It's usually the fabric, yarn size or technique. | |
-| 4 | So we tested it for months until stitches stay in, even for beginners. | Clean loops going in (closes the loop) |
-| 5 | Stuck? A real person replies on WhatsApp. | Phone with WhatsApp chat |
-| 6 | Tap to get yours now. | Finished piece = payoff |
-End card (text, not voiced): Buy 2 Get 1 Free.
-Rules for this ad: no brand named, no competitor box shown, no "cheap" (Urvi's decision), no "other kits use cheap fabric", no "the only kit". Keep proof of the fabric/yarn testing.
-Judge on cost per purchase and order quality, not reach (Urvi accepts fewer impressions).
-
+## Dropped or on hold
+- "It's not you" (Urvi's script): replaced by Ad 4.
+- Calm hobby, busy life, "order for mental peace", "something of my own" (research score 3): dropped.
+- Joy of making, pride: on hold, no evidence yet.
