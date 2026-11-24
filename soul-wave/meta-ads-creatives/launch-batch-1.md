@@ -82,12 +82,12 @@ Use: if Want to try wins, this is the next ad on that angle; if Want to try lose
 | 16-18s | Offer card (Buy 2 Get 1 Free) | Tap to get yours now! |
 Note: the needle is fine; people don't know which yarn size suits it (the website asks if they have the same needle before selling without one). Watch average order value: buyers may pick the ₹899 without-needle kit.
 
-## LOCKED 24 Nov: Want to try (beginner confidence)
+## LOCKED 24 Nov: Want to try (beginner confidence) - v2 (testing line replaces "made to fix exactly this")
 | Voiceover | Text overlay |
 |---|---|
 | You want to try punch needling? | Want to try punch needling? |
 | But not sure which fabric to use? Stitches not staying in? Confused about the needle? | Wrong fabric? Stitches not staying in? Which needle to use? |
-| Soul Wave DIY Kits are made to fix exactly this. | Soul Wave DIY Kits |
+| We spent months testing the right combination, so it's easy and satisfying from day 1. | Soul Wave DIY Kits |
 | This kit includes everything you need. | Everything included for an easy start |
 | Even real WhatsApp Support!! | Punch needle ✅ Fabric ✅ Yarn & hoop ✅ Video tutorial ✅ Real WhatsApp Support ✅ |
 | Tap to get your Kit now | Tap to get yours now ✨ |
