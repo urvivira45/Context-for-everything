@@ -1,4 +1,6 @@
-# Launch Batch 1: Reels Scripts (Campaign 1, website)
+# Launch Batch 1: Reels Scripts (DRAFT, NOT FINAL)
+
+Status 24 Nov: DRAFT. Selection not yet agreed with Urvi. Must be re-ranked against Campaign 1 per-ad results (report: Day 10 = 4 sales, Want to try = 2, mental peace/needle-threading = 1, calm hobby = 1, one ad = 0 sales from 221 chats).
 
 Last updated: 23 Nov 2026. Built from Campaign 1 scripts plus one new script. Changes for the website campaign (LOCKED): "WhatsApp Support" wording, CTA goes to the website (Shop Now), the Buy 2 Get 1 sale is highlighted in every reel. Reels only in Campaign 1 (LOCKED). Format: 9:16, text inside the safe zone, 15 to 25 seconds, first frame shows the needle or yarn.
 

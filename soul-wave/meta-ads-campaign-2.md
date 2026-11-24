@@ -13,7 +13,7 @@ Last updated: 23 Nov 2026. From the Meta ads advisor chat. Repeatable system: `m
 - Tracking: Pixel tested on the live site, all events recording.
 - Locations: no Mumbai (workshops already cover it). South first, then add North slowly. Wants more than 100 pincodes and does not want narrow pincodes to push CAC up; open to broader targeting. New IT belts count as Tier A (high salary, families looking for activities). Gujarat, Jaipur, Indore stay out (Campaign 1 drop-off).
 - No views/awareness campaign on Meta (cheap Punch Needle views don't convert); no retargeting of video viewers.
-- Few creatives with enough budget each, at launch. Campaign 1 = reels only, 4 to 5 ads, one ad set, certain states; more states only if CAC holds. Carousels and statics later, only on the 3 to 4 winning angles. Launch scripts: `meta-ads-creatives/launch-batch-1.md`.
+- Few creatives with enough budget each, at launch. Campaign 1 = reels only, 4 to 5 ads, one ad set, certain states; more states only if CAC holds. Carousels and statics later, only on the 3 to 4 winning angles. Launch scripts (DRAFT, selection not final): `meta-ads-creatives/launch-batch-1.md`.
 - Scaling approach: prefers launching a new campaign with its own budget over editing a running one (budget or ad changes restart learning).
 - Wants a ~₹2,000/day start.
 - Partnership ads start in week 2. Agent rhythm: alerts every 2 hours, daily summary, decisions every 3 days (small) with 7-day averages for big ones. Defense/offense rule adopted.
