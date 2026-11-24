@@ -11,6 +11,9 @@ Concept → angle → visual format → hook → script.
 - A killed angle is retested once in the next campaign with different visuals. If it fails again, the angle is dropped completely.
 - When an ad wins, find out whether the script or the visuals did it (change one at a time).
 
+## Script change rule (LOCKED, 24 Nov)
+- Start from Urvi's original scripts. Change only what is required, list each change with its reason, and get Urvi's approval before changing anything else. No rewrites without asking.
+
 ## Angle selection rule (LOCKED, 24 Nov)
 - Only angles scoring 4+ out of 5 on outside research are used. Scores: beginner confidence 5, feeling during 4, joy of making 4, stress relief 4, pride 4, something of my own 3 (dropped).
 - Every script follows AIDA or PAS; the first 3 seconds are the hook.
