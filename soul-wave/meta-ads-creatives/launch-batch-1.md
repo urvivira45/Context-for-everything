@@ -92,3 +92,13 @@ Note: the needle is fine; people don't know which yarn size suits it (the websit
 | Even real WhatsApp Support!! | Punch needle ✅ Fabric ✅ Yarn & hoop ✅ Video tutorial ✅ Real WhatsApp Support ✅ |
 | Tap to get your Kit now | Tap to get yours now ✨ |
 Open: offer card (Buy 2 Get 1 Free) on the last frame, yes or no.
+
+## LOCKED 24 Nov: Day 10 (stress relief) - text overlay + music, no voiceover
+1. Day 10 of trying something new to manage my stress
+2. Soul Wave's punch needle kit
+3. Never done this before, but it's just punch and pull 🪡
+4. And the best part? The motion feels weirdly calming 🤍
+5. I'd forgotten how calming creating can feel ✨
+6. Super beginner friendly. Comes with everything.
+7. Tap link to get yours 🤍
+Open: offer card on the last frame (decide in edit).
