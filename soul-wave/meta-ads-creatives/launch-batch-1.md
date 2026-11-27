@@ -1,6 +1,6 @@
 # Launch Batch 1: Reel Scripts (Campaign 2, website)
 
-Last updated: 27 Nov 2026. Status: ALL 5 LOCKED. Launch: Sunday 29 Nov 2026 (night). Ad 4 changed on 27 Nov from "Just another kit" to Gifting; "Just another kit" held for the next campaign. Urvi edits the reels; offer card per ad decided in the edit.
+Last updated: 27 Nov 2026. Status: ALL 5 FINAL (Urvi's final texts, 27 Nov). Launch: Sunday 29 Nov 2026 (night). Ad 4 changed on 27 Nov from "Just another kit" to Gifting; "Just another kit" held for the next campaign. Urvi edits the reels; offer card per ad decided in the edit.
 
 Rules for these ads: angles need outside research 4+; AIDA or PAS; first 3 seconds carry the ad; ~15 to 20s; no urgency, no time claims, no health claims from Soul Wave; "Everything included" allowed; CTA goes to the website; Meta Sound Collection music only. Angle testing: kill losers, retest a killed angle once next campaign with new visuals, drop it if it fails again.
 
@@ -28,7 +28,7 @@ Day 10 of trying something new / to manage my stress / Soul Wave's punch needle 
 Visual: motion close-up from frame 1, no logo intro; finished piece as the payoff.
 
 ## Ad 3: You NEED this one (hobby seeker, AIDA), text overlay
-You don't want another hobby… you NEED this one / No experience needed / Just punch, pause & unwind / Loved by 100+ people / Everything comes ready / yarn • hoop • fabric • guidance / Tap the link to start now
+You don't want another hobby… you NEED this one / No experience needed / Just punch, pause & unwind / Loved by 100+ people / Everything comes ready / • needle • yarn • hoop • fabric • video tutorial / Tap the link to start now
 Evidence: Knot Your Type hobby ad running since 6 Jul 2026. Frame 1 must clearly show Punch Needle. Watch: add-to-cart under ~5% = curious non-buyers.
 
 ## Ad 4: Gifting, "Gift a little creative time" (AIDA), text overlay + music, ~16s. LOCKED 27 Nov
@@ -43,12 +43,11 @@ Evidence: Knot Your Type hobby ad running since 6 Jul 2026. Frame 1 must clearly
 Decisions (Urvi): general gifting, not Secret Santa or Christmas; gender neutral; no comparison line against chocolates in Interest; idea = gifting a busy person a little time. Generic chocolates/frames only in visuals, no brand logos.
 Evidence: experiential gifts make recipients feel closer to the giver (Chan and Mogilner, Wharton/U of Toronto); chocolates, photo frames, mugs top Indian gift orders (MyFlowerTree; Instamart Mother's Day 2026); Campaign 1: 3 of 10 buyers were gift or heritage, untargeted.
 
-## Ad 5: Forget your phone (absorption, AIDA), text overlay, ~15s
-We asked her what she thinks about Punch Needle… (text over the workshop clip, heart over her face) / Her real voice: "…very therapeutic" (exact words, big caption) / Honestly? You'll forget to check your phone 📱 / Soul Wave's Punch Needle kit • everything included, even a video tutorial / Stuck? Someone will definitely reply on WhatsApp / Tap to get yours 🤍
-End card: Buy 2 Get 1 Free. Visuals: phone face-down lighting up and ignored while hands punch; finished piece at the end. Music from Meta Sound Collection, different from Ads 2 and 3. Clean up the clip audio.
-Decisions (Urvi): use the customer's "therapeutic" (her words, not Soul Wave's claim); text overlay, no AI voiceover; customer consent taken while recording; faces covered with hearts. Framing is "forget to check your phone", never "stay away from your phone" (Brand Bible: not a digital detox brand).
+## Ad 5: Forget your phone (absorption, AIDA), text overlay + 3 workshop clips, ~16s. FINAL 27 Nov
+Honestly? You'll forget to check your phone / We asked them what they think abt Punch Needle / [3 workshop clips: real voices, hearts over faces, big captions; one is "…very therapeutic"] / When are you trying / Soul Wave's Punch Needle kit? / Stuck? We're just WhatsApp Away / • needle • yarn • hoop • fabric • video tutorial / Tap to get yours 🤍
+End card: Buy 2 Get 1 Free. Visuals: phone face-down lighting up and ignored while hands punch; finished piece at the end. Music from Meta Sound Collection, different from Ads 2, 3 and 4. Clean up clip audio.
+Decisions (Urvi): customer's "therapeutic" kept (her words, not Soul Wave's claim); clips moved from hook to after the phone line; 3 participants instead of 1; text overlay, no AI voiceover; consent taken while recording; faces covered with hearts. Framing is "forget to check your phone", never "stay away from your phone".
 Evidence: screen-time and offline-hobby content is everywhere on Reels (Urvi); Pinterest 2026 Hobbies Report; Etsy/Google analog-hobby search growth.
-
 
 ## HELD for next campaign: "Just another kit" (tried and failed, PAS), Urvi voiceover, ~20s
 Reason held (Urvi, 27 Nov): its body overlapped Ad 1 (stitches not staying in, fabric/needle, months of testing, WhatsApp). Use as the refresh if Ad 1 wins, or the retest if Ad 1 loses.
